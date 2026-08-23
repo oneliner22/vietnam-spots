@@ -21,7 +21,16 @@ Gemini（動画解析）で解析して抽出したベトナムのおすすめ�
 
 ```json
 {"type": "youtube", "id": "3pU_mJFd-E8"}
+{"type": "x", "url": "https://x.com/<handle>/status/<id>", "author": "<handle>", "date": "2026-07-24", "quote": "..."}
+{"type": "x", "anon": true, "date": "2025-09-17", "quote": "..."}
 ```
+
+X出典はファンの聖地巡礼・旅行報告ポスト。`anon: true` は投稿者保護のため
+ユーザー名・リンクを伏せて引用文のみ表示する出典（validate.py が整合を検査）。
+
+自動追加された多くのスポットは Google Places API の裏取りによる
+`address` / `hours`（曜日別7行・日本語）/ `url`（公式サイト）/ `place_id` を持ち、
+座標も Places の値で補正済み（`tools/backfill_places.py`、一回きりのバックフィル）。
 
 ぽんぽこちゃんねるの動画が出典に含まれるスポットは `"ponpoko": true` を持ち、
 UI側でスポット名・地図ラベル・詳細モーダルに 🍃 が表示される（validate.py が整合を検査）。

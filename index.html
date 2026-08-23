@@ -228,7 +228,7 @@ function boot(CFG, AREAS, SPOTS, VIDEOS){
   document.getElementById('cnt-spot').textContent = SPOTS.length;
   document.getElementById('cnt-area').textContent = AREAS.filter(a=>SPOTS.some(s=>s.area===a.id)).length;
   document.getElementById('cnt-video').textContent = new Set(SPOTS.flatMap(ytOf)).size;
-  const xTotal = new Set(SPOTS.flatMap(s=>xOf(s).map(x=>x.url))).size;
+  const xTotal = new Set(SPOTS.flatMap(s=>xOf(s).map(x=>x.url||('anon:'+(x.date||'')+':'+(x.quote||'').slice(0,16))))).size;
   if(xTotal){ document.getElementById('cnt-x').textContent=xTotal; document.getElementById('pill-x').style.display=''; }
 
   const center=CFG.map_center||[16.2,107.7];
@@ -385,16 +385,19 @@ function boot(CFG, AREAS, SPOTS, VIDEOS){
       html+=`<div class="reply-label">Xでのおすすめ言及（${xs.length}件）</div>`;
       xs.forEach(x=>{
         // embed:false は投稿者のアカウント設定(年齢制限)で埋め込み・未ログイン閲覧が
-        // できない出典。埋め込みを試みても失敗するので最初から引用カードで見せる
+        // できない出典。埋め込みを試みても失敗するので最初から引用カードで見せる。
+        // anon:true は投稿者保護のためユーザー名・リンクを伏せる出典（引用文のみ表示）。
+        const anon=x.anon===true;
         const gated=x.embed===false;
-        const idm=(x.url||'').match(/status(?:es)?\/(\d+)/); const tid=gated?null:(idm?idm[1]:null);
+        const idm=(x.url||'').match(/status(?:es)?\/(\d+)/); const tid=(gated||anon)?null:(idm?idm[1]:null);
         html+=`<div class="embed-wrap">`+
           `<div class="x-card fallback">`+
-            `<span class="x-author">${esc(x.author||'')}</span>`+
+            `<span class="x-author">${anon?'ファンの旅行報告':esc(x.author||'')}</span>`+
             (x.date?`<span class="x-date">${esc(x.date)}</span>`:'')+
             (x.quote?`<div class="x-quote">${esc(x.quote)}</div>`:'')+
-            `<div><a class="x-link" href="${esc(x.url)}" target="_blank" rel="noopener">𝕏 ポストを開く ↗</a></div>`+
-            (gated?`<div class="x-gated">※ 投稿者のアカウント設定により、X にログインしていないとこのポストは表示できません。</div>`:'')+
+            (anon?`<div class="x-gated">※ 非公開アカウントの投稿のため、ユーザー名とリンクは伏せています。</div>`
+                 :`<div><a class="x-link" href="${esc(x.url)}" target="_blank" rel="noopener">𝕏 ポストを開く ↗</a></div>`+
+                  (gated?`<div class="x-gated">※ 投稿者のアカウント設定により、X にログインしていないとこのポストは表示できません。</div>`:''))+
           `</div>`+
           (tid?`<div class="tweet-slot" id="tw-${tid}"></div>`:'')+
           `</div>`;
@@ -419,7 +422,7 @@ function boot(CFG, AREAS, SPOTS, VIDEOS){
     if(xs.length && window.twttr && window.twttr.ready){
       window.twttr.ready(tw=>{
         xs.forEach(x=>{
-          if(x.embed===false) return;  // 埋め込み不可と分かっている出典は試さない
+          if(x.embed===false || x.anon===true) return;  // 埋め込み不可・匿名化した出典は試さない
           const idm=(x.url||'').match(/status(?:es)?\/(\d+)/); if(!idm) return;
           const slot=document.getElementById('tw-'+idm[1]); if(!slot||slot.childNodes.length) return;
           tw.widgets.createTweet(idm[1], slot, {conversation:'none', theme:'light', align:'center', dnt:true})

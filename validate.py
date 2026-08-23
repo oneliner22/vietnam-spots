@@ -2,7 +2,7 @@
 """data/*.json の整合性チェック。手動編集後に実行する。
 使い方: python validate.py  (異常があれば exit 1)
 """
-import json, io, sys
+import json, io, re, sys
 
 # ベトナム全土 + マージン
 BBOX = {"lat_min": 7.5, "lat_max": 24.5, "lng_min": 101.5, "lng_max": 110.5}
@@ -47,12 +47,24 @@ if spots_doc and videos:
         if not isinstance(s.get("sources"), list) or not s["sources"]:
             err(f"{tag}: sources が空")
             continue
+        x_url_re = re.compile(r"^https://(x|twitter)\.com/.+/status(es)?/\d+")
         for src in s["sources"]:
-            if src.get("type") == "youtube":
+            t = src.get("type")
+            if t == "youtube":
                 if src.get("id") not in videos:
                     err(f"{tag}: videos.json にない動画ID '{src.get('id')}'")
+            elif t == "x":
+                if src.get("anon"):
+                    # 投稿者保護のためURL・ユーザー名を持たない匿名出典
+                    if not src.get("quote") or not src.get("date"):
+                        err(f"{tag}: anon x source に quote/date がない")
+                    continue
+                if not x_url_re.match(src.get("url", "")):
+                    err(f"{tag}: 不正なX URL '{src.get('url')}'")
+                if not src.get("date"):
+                    err(f"{tag}: x source に date がない")
             else:
-                err(f"{tag}: 未知の source type '{src.get('type')}'")
+                err(f"{tag}: 未知の source type '{t}'")
         # 🍃 印: ponpoko=true のスポットは、ぽんぽこ動画が出典に含まれていること
         pp_vids = {vid for vid, v in videos.items() if v.get("ponpoko")}
         yt_ids = {src.get("id") for src in s["sources"] if src.get("type") == "youtube"}
