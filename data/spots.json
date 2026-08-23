@@ -1,0 +1,5289 @@
+{
+ "areas": [
+  {
+   "id": "hanoi",
+   "name": "ハノイ",
+   "color": "#e8543f"
+  },
+  {
+   "id": "sapa",
+   "name": "サパ",
+   "color": "#2f9e7d"
+  },
+  {
+   "id": "halong",
+   "name": "ハロン湾",
+   "color": "#3f7fd6"
+  },
+  {
+   "id": "danang",
+   "name": "ダナン",
+   "color": "#e0489a"
+  },
+  {
+   "id": "hoian",
+   "name": "ホイアン",
+   "color": "#b07d2a"
+  },
+  {
+   "id": "hcmc",
+   "name": "ホーチミン",
+   "color": "#7b5cd6"
+  }
+ ],
+ "spots": [
+  {
+   "slug": "antique-angel-hotel",
+   "name": "アンティーク エンジェル ホテル",
+   "local": "Antique Angel Hotel",
+   "area": "hanoi",
+   "cat": "宿",
+   "lat": 21.0353,
+   "lng": 105.8492,
+   "approx": false,
+   "desc": "ハノイ旧市街にある居心地の良いホテル。バルコニー付きの部屋が紹介されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "bun-cha-ta",
+   "name": "ブンチャー・タ",
+   "local": "Bún Chả Ta",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0326,
+   "lng": 105.8561,
+   "approx": false,
+   "desc": "ミシュランガイドに掲載されたブンチャーの人気店。甘酸っぱい魚醤ベースのスープに香ばしく焼かれた豚肉がたっぷり入っており、クオリティが高く評価されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "giao-mua-coffee",
+   "name": "ジアオ・ムア・コーヒー",
+   "local": "Giao Mùa Coffee",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0298,
+   "lng": 105.8488,
+   "approx": false,
+   "desc": "ユニークな曲線的な壁と洞窟のようなデザインが特徴の、SNSで話題のおしゃれなカフェです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "st-joseph-s-cathedral",
+   "name": "ハノイ大教会",
+   "local": "St. Joseph's Cathedral",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0287,
+   "lng": 105.849,
+   "approx": false,
+   "desc": "ハノイを代表する歴史あるゴシック様式の大聖堂。複数の動画で紹介されており、夜間の美しいライトアップや、パリのノートルダム大聖堂に似た荘厳な建築が人気を集めています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    },
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    },
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    },
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "renew-jeans",
+   "name": "リニュージーンズ",
+   "local": "Renew Jeans",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0292,
+   "lng": 105.8468,
+   "approx": false,
+   "desc": "デニム生地をリメイクしたバッグや帽子、小物を販売しているユニークなアパレルショップです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "collective-memory",
+   "name": "コレクティブ・メモリー",
+   "local": "Collective Memory",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0283,
+   "lng": 105.8485,
+   "approx": false,
+   "desc": "ハノイ大聖堂の近くにあるおしゃれなセレクトショップ。ベトナムのアートやデザイン性の高いお土産、ポストカードなどが揃っています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "pame-coffee",
+   "name": "パメ・コーヒー",
+   "local": "Pame Coffee",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0301,
+   "lng": 105.8482,
+   "approx": false,
+   "desc": "レトロで可愛らしい外観 of カフェ。路上に置かれた椅子に座って、行き交う人々を眺めながらコーヒーを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "ta-hien-beer-street",
+   "name": "ターヒエン・ビアストリート",
+   "local": "Ta Hien Beer Street",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0352,
+   "lng": 105.8525,
+   "approx": false,
+   "desc": "夜になると多くの人で賑わうビアストリート。路上でビールとベトナム風バーベキューを堪能しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "pho-ga-nguyet",
+   "name": "フォー・ガー・グエット",
+   "local": "Phở Gà Nguyệt",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0305,
+   "lng": 105.8465,
+   "approx": false,
+   "desc": "ミシュランのビブグルマンに選ばれた、鶏肉のフォー（フォー・ガー）の名店。複数の動画で絶賛されており、柔らかな鶏肉と爽やかなスープが特徴です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    },
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "hoa-lo-prison-relic",
+   "name": "ホアロー収容所",
+   "local": "Hoa Lo Prison Relic",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0253,
+   "lng": 105.8464,
+   "approx": false,
+   "desc": "フランス植民地時代やベトナム戦争時に使用された歴史的な監獄跡地。現在は博物館として公開されており、音声ガイドを聞きながら過酷な歴史を伝える展示を見学できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    }
+   ]
+  },
+  {
+   "slug": "bancong-cafe",
+   "name": "バンコン・カフェ",
+   "local": "Bancong Cafe",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0335,
+   "lng": 105.853,
+   "approx": false,
+   "desc": "美しい花や植物に囲まれたフレンチコロニアル様式のレトロな洋館カフェ。名物のエッグコーヒーやクロワッサンを味わいながらのんびり過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "hanoi-train-street",
+   "name": "ハノイトレイン・ストリート",
+   "local": "Hanoi Train Street",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0285,
+   "lng": 105.8435,
+   "approx": false,
+   "desc": "民家のすぐ脇を列車が通り抜けるハノイの超有名スポット。複数の動画で紹介されており、線路脇のカフェから大迫力の列車通過を間近で体験できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "bun-cha-huong-lien",
+   "name": "ブンチャー・フオン・リエン",
+   "local": "Bún Chả Hương Liên",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0194,
+   "lng": 105.8557,
+   "approx": false,
+   "desc": "オバマ元大統領が訪れたことで有名なブンチャーの名店。複数の動画で紹介されており、ボリューム満点のブンチャーや揚げ春巻きが絶品と評判です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    },
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "dreamers-seekers",
+   "name": "ドリーマーズ＆シーカーズ",
+   "local": "Dreamers & Seekers",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.029,
+   "lng": 105.8492,
+   "approx": false,
+   "desc": "路地裏にある落ち着いた雰囲気のカフェ。サイゴンスタイルのアイスコーヒーをテラス席で楽しんでいます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "thang-long-water-puppet-theatre",
+   "name": "タンロン水上人形劇場",
+   "local": "Thang Long Water Puppet Theatre",
+   "area": "hanoi",
+   "cat": "体験",
+   "lat": 21.0315,
+   "lng": 105.8531,
+   "approx": false,
+   "desc": "ベトナムの伝統芸能である水上人形劇を鑑賞できる劇場。生演奏と人形たちのコミカルな動きを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "c-o-c-legacy-specialty-coffee",
+   "name": "C.O.C レガシー・スペシャルティ・コーヒー",
+   "local": "C.O.C Legacy Specialty Coffee",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.034444,
+   "lng": 105.851944,
+   "approx": false,
+   "desc": "旧市街の路地の奥にある隠れ家的なカフェ。濃厚でクリーミーなベトナム名物のエッグコーヒーを味わっています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    }
+   ]
+  },
+  {
+   "slug": "ho-hoan-kiem",
+   "name": "ホアンキエム湖",
+   "local": "Hồ Hoàn Kiếm",
+   "area": "hanoi",
+   "cat": "自然",
+   "lat": 21.0285,
+   "lng": 105.8522,
+   "approx": false,
+   "desc": "ハノイの中心部にある美しい湖。複数の動画で紹介されており、朝の散歩や夜のライトアップされた景色、周辺での食べ歩きなど、地元の人や観光客の憩いの場となっています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    },
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "lang-chu-tich-ho-chi-minh",
+   "name": "ホー・チ・ミン廟",
+   "local": "Lăng Chủ tịch Hồ Chí Minh",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0368,
+   "lng": 105.8347,
+   "approx": false,
+   "desc": "ベトナムの建国の父、ホー・チ・ミンの遺体が安置されている厳かな廟。外観を撮影して紹介しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    }
+   ]
+  },
+  {
+   "slug": "ho-huu-tiep",
+   "name": "フウティエップ湖 (B52湖)",
+   "local": "Hồ Hữu Tiệp",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0361,
+   "lng": 105.8256,
+   "approx": false,
+   "desc": "ベトナム戦争中に撃墜されたアメリカ軍のB-52爆撃機の残骸が、今も湖の中に残されている歴史的な場所です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    }
+   ]
+  },
+  {
+   "slug": "den-ngoc-son",
+   "name": "玉山祠",
+   "local": "Đền Ngọc Sơn",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0306,
+   "lng": 105.8524,
+   "approx": false,
+   "desc": "ホアンキエム湖に浮かぶ小島に建つ美しい寺院。夜間にライトアップされた赤い橋を渡って訪れることができ、湖面に映る姿が美しいと紹介されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "highlands-coffee-le-thach",
+   "name": "ハイランズコーヒー レ・タック店",
+   "local": "Highlands Coffee Lê Thạch",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0267,
+   "lng": 105.8533,
+   "approx": false,
+   "desc": "ベトナムの有名カフェチェーン店。丸ごとライチとゼリーが入った爽やかなライチティーが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "family-pho",
+   "name": "ファミリー・フォー",
+   "local": "Family Pho",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0298,
+   "lng": 105.8488,
+   "approx": false,
+   "desc": "細い路地の中にあるローカルなフォーのお店。朝早くから営業しており、薄切りの牛肉が入った優しい味わいのフォーが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "hanoi-croissant-coffee",
+   "name": "ハノイ・クロワッサン＆コーヒー",
+   "local": "Hanoi Croissant & Coffee",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0333,
+   "lng": 105.8517,
+   "approx": false,
+   "desc": "ホアンキエム湖の近くにあるカフェ。ストロベリーライチティーを注文し、行き交うバイクを眺めながらのんびり過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "o-quan-chuong-gate",
+   "name": "東河門 (オー・クアン・チュオン)",
+   "local": "Ô Quan Chưởng Gate",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0378,
+   "lng": 105.8528,
+   "approx": false,
+   "desc": "ハノイ旧市街にある歴史的な城門。18世紀から続く激動の歴史を今に伝える重要な史跡です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "long-bien-market",
+   "name": "ロンビエン市場",
+   "local": "Long Bien Market",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0428,
+   "lng": 105.8512,
+   "approx": false,
+   "desc": "ベトナム北部最大規模 of 市場。「眠らない市場」と言われ、深夜から早朝にかけて活気にあふれます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "highlands-coffee-tran-vu",
+   "name": "ハイランズコーヒー チャン・ヴー店",
+   "local": "Highlands Coffee Trấn Vũ",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0456,
+   "lng": 105.8398,
+   "approx": false,
+   "desc": "チュックバック湖に浮かぶように建てられたカフェ。アンズとプラムの甘酸っぱいティーを飲みながら休憩できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "pho-cuon-thanh-hang",
+   "name": "フォークオン・タインハン",
+   "local": "Phở Cuốn Thanh Hằng",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0459,
+   "lng": 105.8384,
+   "approx": false,
+   "desc": "ハノイ発祥のローカルフード「フォークオン」の人気店。フォーの生地で牛肉やレタス、香草を巻いた料理で、ヌクチャムにつけて食べます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "cong-ca-phe-truc-bach",
+   "name": "コンカフェ チュックバック店",
+   "local": "Cộng Cà Phê Trúc Bạch",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0461,
+   "lng": 105.8388,
+   "approx": false,
+   "desc": "ベトナムで大人気のレトロな雰囲気のカフェチェーン。パッションフルーツと金柑のお茶を注文し、のんびり過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "chua-tran-quoc",
+   "name": "チャンクオック寺",
+   "local": "Chùa Trấn Quốc",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0481,
+   "lng": 105.8364,
+   "approx": false,
+   "desc": "タイ湖の小島に浮かぶハノイ最古の仏教寺院。11層の巨大な仏塔がシンボルで、心地よい風が吹く美しい場所です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "bia-ba-bat",
+   "name": "ビア・バ・バット",
+   "local": "Bia Bà Bát",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0366,
+   "lng": 105.8538,
+   "approx": false,
+   "desc": "地元の人々で賑わうローカルなビアホイ（生ビール）のお店。アルコール度数が低くすっきりしたビールと、ネギたっぷりの厚揚げが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-tram",
+   "name": "バインミー・チャム",
+   "local": "Bánh mì Trâm",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0292,
+   "lng": 105.8431,
+   "approx": false,
+   "desc": "ベトナム風ビーフシチュー「ソットヴァン」が人気のお店。スパイスとパクチーが効いたシチューにフランスパンを浸して食べます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "lc-home",
+   "name": "エルシー・ホーム",
+   "local": "LC Home",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 20.9632,
+   "lng": 105.9325,
+   "approx": false,
+   "desc": "バッチャン村の近くにあるおしゃれな陶器ショップ。リーズナブルで可愛いバッチャン焼きの食器やマグカップが豊富に揃っています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "tuyet-bun-cha-34",
+   "name": "トゥエット・ブンチャー34",
+   "local": "Tuyết Bún Chả 34",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0422,
+   "lng": 105.8475,
+   "approx": false,
+   "desc": "地元の人や観光客で賑わうブンチャーの人気店。紫蘇が巻かれたつくねや薄切り肉が入ったスープが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "cho-hang-da",
+   "name": "ハンザ市場",
+   "local": "Chợ Hàng Da",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0319,
+   "lng": 105.8469,
+   "approx": false,
+   "desc": "地下にある市場で、バッチャン焼きの食器や可愛い刺繍巾着などを売る店が集まっています。日本語が上手な店員さんもいて買い物がしやすいと評判です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "phuc-long-coffee-tea-hang-dieu",
+   "name": "フックロン・コーヒー＆ティー ハンディエウ店",
+   "local": "Phuc Long Coffee & Tea Hàng Điếu",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0322,
+   "lng": 105.8465,
+   "approx": false,
+   "desc": "ハンザ市場の近くにある人気カフェチェーン。テラス席からハノイの街並みを見下ろしながら、ロンガンジャスミンティーなどを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "hai-van",
+   "name": "ハイヴァン",
+   "local": "Hai Van",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0302,
+   "lng": 105.8473,
+   "approx": false,
+   "desc": "ハノイ旧市街にあるバッチャン焼きの専門店。可愛い花瓶やマグカップ、お皿などが豊富に並んでいます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "xoi-che-ba-thin",
+   "name": "チェー・バー・ティン",
+   "local": "Xôi Chè Bà Thìn",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0337,
+   "lng": 105.8482,
+   "approx": false,
+   "desc": "地元の人々で賑わう伝統的なベトナムスイーツ「チェー」の老舗。冬限定の温かい黒豆のチェーは、お汁粉に似た優しい味わいです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-25",
+   "name": "バインミー25",
+   "local": "Banh Mi 25",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.036,
+   "lng": 105.8488,
+   "approx": false,
+   "desc": "観光客に大人気のバインミー専門店。サクサクのパンにレバーパテ、チャーシュー、ソーセージなどが贅沢に挟まれています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "cong-ca-phe-cau-go",
+   "name": "コンカフェ カウゴー店",
+   "local": "Cộng Cà Phê Cầu Gỗ",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0318,
+   "lng": 105.8527,
+   "approx": false,
+   "desc": "ホアンキエム湖のすぐ近くにあるコンカフェ。テラス席からは湖が一望でき、ココナッツココアなどのフローズンドリンクが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "quan-che-thap-cam-16",
+   "name": "クアン・チェー・タップ・カム16",
+   "local": "Quán Chè Thập Cẩm 16",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0188,
+   "lng": 105.8515,
+   "approx": false,
+   "desc": "地元の人々に愛されるチェーの専門店。温かいチェーなど様々な種類のベトナム伝統スイーツがリーズナブルに楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "JrisJQVXiiY"
+    }
+   ]
+  },
+  {
+   "slug": "the-oriental-jade-hotel",
+   "name": "ジ オリエンタル ジェイド ホテル",
+   "local": "The Oriental Jade Hotel",
+   "area": "hanoi",
+   "cat": "宿",
+   "lat": 21.0294,
+   "lng": 105.8511,
+   "approx": false,
+   "desc": "ホアンキエム湖の近くにある5つ星ホテル。ウェルカムドリンクやスナックが提供され、天井まである大きな窓からハノイの街並みを眺めることができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "bep-bo-ta",
+   "name": "ベップ・ボ・タ",
+   "local": "Bep Bo Ta",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0284,
+   "lng": 105.8485,
+   "approx": false,
+   "desc": "聖ヨセフ大聖堂の近くにあるベトナム料理店。牛肉のフォー（フォーボー）と揚げ春巻きを注文し、本場の味を堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "c1-cafe",
+   "name": "シーワン カフェ",
+   "local": "C1 Cafe",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0298,
+   "lng": 105.8481,
+   "approx": false,
+   "desc": "路地裏に佇む静かで落ち着いた雰囲気のカフェ。テラス席でシャリシャリとした食感のココナッツコーヒーを楽しみました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "brg-mart",
+   "name": "BRGマート",
+   "local": "BRG Mart",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0286,
+   "lng": 105.85,
+   "approx": false,
+   "desc": "ホテルの近くにあるスーパーマーケット。ドラゴンフルーツなどの新鮮な果物やお土産用のお菓子をチェックしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "chie-dupudupa",
+   "name": "チエ ドゥプドゥパ",
+   "local": "Chie DuPuDuPa",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0295,
+   "lng": 105.8505,
+   "approx": false,
+   "desc": "ベトナム北部の少数民族の女性たちが作るハンドメイド製品を扱うフェアトレードショップ。可愛い衣類や小物を爆買いしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-kim-buom",
+   "name": "バインミー キム ブオム",
+   "local": "Bánh Mì Kim Bướm",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0291,
+   "lng": 105.8508,
+   "approx": false,
+   "desc": "ホテルのすぐ近くにあるバインミーのテイクアウト店。ポークとチキンが入った具だくさんで美味しいバインミーを購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "hanoi-old-quarter",
+   "name": "ハノイ旧市街",
+   "local": "Hanoi Old Quarter",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0352,
+   "lng": 105.85,
+   "approx": false,
+   "desc": "活気あふれるハノイの歴史的なエリア。夜は多くの観光客やバイクで行き交い、ローカルな熱気を感じることができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "sinh-to-hoa-beo",
+   "name": "ホアベオ",
+   "local": "Sinh tố Hoa Béo",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0324,
+   "lng": 105.8497,
+   "approx": false,
+   "desc": "旧市街のトータップ通りにある有名なフルーツデザート店。新鮮なマンゴーに練乳とかき氷を合わせた絶品スイーツを路上席で味わいました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "jURFn6UrHFU"
+    }
+   ]
+  },
+  {
+   "slug": "circle-k-27-nha-chung",
+   "name": "サークルK ニャーチュン店",
+   "local": "Circle K 27 Nhà Chung",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0282,
+   "lng": 105.8489,
+   "approx": false,
+   "desc": "ハノイ大教会のすぐ近くにあるコンビニ。じゃんけんで負けたスタッフがメンバー全員に飲み物を奢る企画で盛り上がりました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "grand-hotel-du-lac-hanoi",
+   "name": "グランド ホテル デュ ラック ハノイ",
+   "local": "Grand Hotel du Lac Hanoi",
+   "area": "hanoi",
+   "cat": "宿",
+   "lat": 21.0291,
+   "lng": 105.8501,
+   "approx": false,
+   "desc": "宿泊したハノイのクラシックで豪華なホテル。広々とした客室やバルコニー、バスタブなどのルームツアーを行いました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "cua-hang-ao-dai-lam-anh",
+   "name": "アオザイ ラムアン",
+   "local": "Cửa Hàng Áo Dài Lâm Anh",
+   "area": "hanoi",
+   "cat": "体験",
+   "lat": 21.028,
+   "lng": 105.8485,
+   "approx": false,
+   "desc": "伝統衣装アオザイのレンタル・販売店。色鮮やかで美しい刺繍が施されたアオザイをメンバーで試着しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "vuon-hoa-ly-thai-to",
+   "name": "リータイトー公園",
+   "local": "Vườn hoa Lý Thái Tổ",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0274,
+   "lng": 105.8539,
+   "approx": false,
+   "desc": "ホアンキエム湖の東側にある公園。アオザイを着たメンバーが、現地で流行しているTikTokのダンス撮影に挑戦しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "la-viet-coffee",
+   "name": "ラ・ヴィエット・コーヒー",
+   "local": "Là Việt Coffee",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0283,
+   "lng": 105.8479,
+   "approx": false,
+   "desc": "住宅街の路地裏に佇むおしゃれなカフェ。こだわりのハンドドリップコーヒーやバナナブレッドを堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "em-hanoi",
+   "name": "エム ハノイ",
+   "local": "Em Hanoi",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0284,
+   "lng": 105.8478,
+   "approx": false,
+   "desc": "日本人オーナーが手がけるお土産雑貨店。ベトナムの伝統や素材を活かした、センスの良い可愛いお土産が揃っています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mDoGZkfw9uU"
+    }
+   ]
+  },
+  {
+   "slug": "aquarius-premium-hotel",
+   "name": "アクエリアス プレミアム ホテル",
+   "local": "Aquarius Premium Hotel",
+   "area": "hanoi",
+   "cat": "宿",
+   "lat": 21.0319,
+   "lng": 105.8468,
+   "approx": false,
+   "desc": "ハノイ旧市街に位置するホテル。ウェルカムドリンクのサービスがあり、清潔で快適な客室に宿泊しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "pho-10-ly-quoc-su",
+   "name": "フォー10 リークオックスー",
+   "local": "Phở 10 Lý Quốc Sư",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0302,
+   "lng": 105.8485,
+   "approx": false,
+   "desc": "ミシュランにも掲載されたハノイで非常に有名な牛肉フォー専門店。朝早くから多くの人で賑わっており、旨味が凝縮されたスープと牛肉のフォーが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    },
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "bami-bread-banh-mi-bami",
+   "name": "バミブレッド ハングバック店",
+   "local": "Bami Bread - Bánh Mì Bami",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0343,
+   "lng": 105.8525,
+   "approx": false,
+   "desc": "旧市街にある人気のバインミー専門店。BBQチキンのバインミーをテイクアウトして味わいました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "thinh-quang",
+   "name": "ティンクアン両替所",
+   "local": "Thịnh Quang",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0298,
+   "lng": 105.8456,
+   "approx": false,
+   "desc": "ハノイのハチュン通りにある両替所。少し独特な雰囲気ですが、無事に両替を済ませました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "ames-studio",
+   "name": "エイムズ スタジオ",
+   "local": "Ames Studio",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0298,
+   "lng": 105.8434,
+   "approx": false,
+   "desc": "トレイン・ストリート沿いにある、デザインや色味がとても可愛い陶器やバッグを扱う雑貨屋さんです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "kem-trang-tien",
+   "name": "ケム・チャンティエン",
+   "local": "Kem Tràng Tiền",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0258,
+   "lng": 105.8561,
+   "approx": false,
+   "desc": "地元の人々や若者に大人気のアイスクリーム店。様々なフレーバーのコーンアイスを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "ceramics-by-jork-pap",
+   "name": "セラミックス バイ ヨーク パップ",
+   "local": "Ceramics by Jork Pap",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0297,
+   "lng": 105.8488,
+   "approx": false,
+   "desc": "手描きのゆるいイラストが描かれた陶器が大量に並ぶお店。可愛らしいデザインのカップやお皿が手に入ります。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "all-day-coffee-hang-bun",
+   "name": "オール デイ コーヒー ハングブン店",
+   "local": "All Day Coffee (Hang Bun)",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0426,
+   "lng": 105.8458,
+   "approx": false,
+   "desc": "レトロでおしゃれなインテリアのカフェ。名物のエッグコーヒーや塩キャラメルマキアートを楽しみました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "may-kitchenware",
+   "name": "メイ キッチンウェア (ハングガイ)",
+   "local": "May Kitchenware",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0331,
+   "lng": 105.8501,
+   "approx": false,
+   "desc": "ディスプレイもおしゃれな食器専門店。天才的に可愛いデザインのマグカップやお皿がリーズナブルに購入できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "cau-go-vietnamese-cuisine",
+   "name": "カウゴー ベトナミーズ キュイジーヌ",
+   "local": "Cau Go Vietnamese Cuisine",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0322,
+   "lng": 105.8532,
+   "approx": false,
+   "desc": "ホアンキエム湖を一望できるロケーション抜群のレストラン。ベトナムの鶏鍋「Lau Ga La E」や生春巻きをいただきました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "bun-bo-nam-bo-bach-phuong",
+   "name": "ブンボーナンボー・バクフオン",
+   "local": "Bún Bò Nam Bộ Bách Phương",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0323,
+   "lng": 105.8465,
+   "approx": false,
+   "desc": "牛肉やナッツ、野菜がたっぷり入った甘酸っぱいタレの混ぜ麺「ブンボーナンボー」の人気店。美味しすぎてテイクアウトもしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "l-angfarm-store-hang-gai",
+   "name": "ラングファーム ストア ハングガイ店",
+   "local": "L'angfarm Store Hang Gai",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.033,
+   "lng": 105.8499,
+   "approx": false,
+   "desc": "ダラット発のおしゃれなお土産屋さん。MAROUのチョコレートやドライフルーツなど、上質なお土産が揃っています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "urban-oasis-spa",
+   "name": "アーバン オアシス スパ",
+   "local": "Urban Oasis Spa",
+   "area": "hanoi",
+   "cat": "体験",
+   "lat": 21.032,
+   "lng": 105.8515,
+   "approx": false,
+   "desc": "ハノイ旧市街にある人気のスパ。日本語メニューもあり、ホットストーンを使ったマッサージで旅の疲れを癒やしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "quan-an-ngon",
+   "name": "クアン・アン・ンゴン",
+   "local": "Quán Ăn Ngon",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0263,
+   "lng": 105.8432,
+   "approx": false,
+   "desc": "ベトナム各地の屋台料理を綺麗な店舗で楽しめる人気レストラン。バインセオやネムクアベー（カニの揚げ春巻き）を堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "loading-t-cafe",
+   "name": "ローディング T カフェ",
+   "local": "Loading T Cafe",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0308,
+   "lng": 105.848,
+   "approx": false,
+   "desc": "フレンチコロニアル風の古いアパートの2階にある隠れ家カフェ。ヴィンテージな雰囲気の中でエッグコーヒーを味わいました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "lotte-mart-lieu-giai",
+   "name": "ロッテマート リエウザイ店",
+   "local": "Lotte Mart (Lieu Giai)",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.032,
+   "lng": 105.8118,
+   "approx": false,
+   "desc": "ロッテセンターの地下にある大型スーパー。バラマキ用のお菓子やインスタントフォーなどを大量に購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "hanoi-shouten",
+   "name": "ハノイ商店",
+   "local": "Hanoi Shouten",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0304,
+   "lng": 105.8475,
+   "approx": false,
+   "desc": "日本人オーナーがセレクトしたベトナム土産が揃うお店。ノンラー（円錐形の帽子）の形をしたクッキーなどが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "cong-ca-phe-nha-tho",
+   "name": "コンカフェ ニャートー店",
+   "local": "Cộng Cà Phê (Nha Tho)",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0289,
+   "lng": 105.8492,
+   "approx": false,
+   "desc": "ハノイ大聖堂の目の前にある、共産主義時代をテーマにした人気カフェチェーン。テラス席から大聖堂を眺めながらお茶ができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "ga-hanoi-cafe",
+   "name": "ガーハノイカフェ",
+   "local": "Ga Hanoi Cafe",
+   "area": "hanoi",
+   "cat": "宿",
+   "lat": 21.0294,
+   "lng": 105.8436,
+   "approx": false,
+   "desc": "カフェ「Ga Hanoi Cafe」と同じ建物にあるAirbnbの宿。ブーゲンビリアが綺麗な建物で、内装もお洒落で快適な部屋です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "phuong-noi-stationery",
+   "name": "フオンノイ ステーショナリー",
+   "local": "Phuong Noi Stationery",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0336,
+   "lng": 105.8485,
+   "approx": false,
+   "desc": "ハノイ旧市街にある文房具・雑貨店。ベトナムの伝統的な布柄の扇子やノート、ポーチなどが並び、お土産探しにぴったりです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "phuc-loi-stamp",
+   "name": "フクロイ スタンプ",
+   "local": "Phúc Lợi Stamp",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0329,
+   "lng": 105.8488,
+   "approx": false,
+   "desc": "オリジナルのハンコを作ってくれる老舗のハンコ店。日本語での対応も可能で、好きなデザインを選んで名前入りのハンコをオーダーできます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "may-kitchenware-2",
+   "name": "メイ キッチンウェア (チュックバック)",
+   "local": "MAY Kitchenware",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0478,
+   "lng": 105.8445,
+   "approx": false,
+   "desc": "陶器食器の販売とカフェが融合したお洒落なショップ。1階にはシンプルなデザインの食器がずらりと並び、2階のカフェスペースでゆっくり過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "uniqlo-hoan-kiem",
+   "name": "ユニクロ ホアンキエム店",
+   "local": "UNIQLO Hoan Kiem",
+   "area": "hanoi",
+   "cat": "雑貨・土産",
+   "lat": 21.0264,
+   "lng": 105.8518,
+   "approx": false,
+   "desc": "ホアンキエム湖近くにあるユニクロの店舗。フランス統治時代のコロニアル建築を改修した美しい建物で、ベトナム限定デザインのTシャツなどが販売されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "the-banh-mi-station",
+   "name": "ザ バインミー ステーション",
+   "local": "The Banh Mi Station",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0311,
+   "lng": 105.8454,
+   "approx": false,
+   "desc": "ハノイ旧市街にあるバインミー専門店。テイクアウトした「Hanoi Banh Mi」とライチティーを宿で美味しくいただきました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "the-hanoi-social-club",
+   "name": "フォー・ザ・ハノイ・ソーシャル・クラブ",
+   "local": "The Hanoi Social Club",
+   "area": "hanoi",
+   "cat": "カフェ・喫茶",
+   "lat": 21.0291,
+   "lng": 105.8465,
+   "approx": false,
+   "desc": "コロニアル様式の洋館を改装したお洒落なカフェ。朝食にポーチドエッグと空芯菜のトースト、ライムアイスティーを楽しみました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "dong-xuan-market",
+   "name": "ドンスアン市場",
+   "local": "Dong Xuan Market",
+   "area": "hanoi",
+   "cat": "観光",
+   "lat": 21.0385,
+   "lng": 105.8498,
+   "approx": false,
+   "desc": "ハノイ最大級の屋内市場。今回は中を通り抜けるだけで素通りしましたが、周辺の活気ある雰囲気を楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "pho-gia-truyen-bat-dan",
+   "name": "フォー・ザ・ジエン・バット・ダン",
+   "local": "Phở Gia Truyền Bát Đàn",
+   "area": "hanoi",
+   "cat": "グルメ",
+   "lat": 21.0331,
+   "lng": 105.8463,
+   "approx": false,
+   "desc": "朝6時から営業しているフォーの有名店ですが、訪れた日は移転か何かで閉まっていました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "uBMSile1Go8"
+    }
+   ]
+  },
+  {
+   "slug": "d-home-sapa",
+   "name": "ディー・ホーム サパ",
+   "local": "D.Home Sapa",
+   "area": "sapa",
+   "cat": "宿",
+   "lat": 22.3335,
+   "lng": 103.8415,
+   "approx": false,
+   "desc": "サパで宿泊したアットホームなホームステイ。窓から山々やモノレールが走る美しい景色が見渡せます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "sun-plaza-sapa",
+   "name": "サン・プラザ",
+   "local": "Sun Plaza Sapa",
+   "area": "sapa",
+   "cat": "観光",
+   "lat": 22.335,
+   "lng": 103.8425,
+   "approx": false,
+   "desc": "ファンシーパン山へ向かうモノレールの始発駅がある、ヨーロッパ風の美しい複合施設です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "fansipan",
+   "name": "ファンシーパン山",
+   "local": "Fansipan",
+   "area": "sapa",
+   "cat": "自然",
+   "lat": 22.3033,
+   "lng": 103.775,
+   "approx": false,
+   "desc": "インドシナ半島最高峰の山。霧に包まれた幻想的な山頂の景色と寺院を訪れています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "cho-tinh-quan",
+   "name": "チョー・ティン・クアン",
+   "local": "Chợ Tình Quán",
+   "area": "sapa",
+   "cat": "グルメ",
+   "lat": 22.3375,
+   "lng": 103.8435,
+   "approx": false,
+   "desc": "伝統的なランタンが飾られた美しい内装のレストラン。チキンのホットポット（鍋）やチャーハンを堪能しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "the-mist-sapa",
+   "name": "ザ・ミスト サパ",
+   "local": "The Mist Sapa",
+   "area": "sapa",
+   "cat": "カフェ・喫茶",
+   "lat": 22.337,
+   "lng": 103.8395,
+   "approx": false,
+   "desc": "緑豊かな庭と人懐っこい犬たちがいる癒やしのカフェ。名物のココナッツコーヒーを味わっています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "moana-sapa",
+   "name": "モアナ・サパ",
+   "local": "Moana Sapa",
+   "area": "sapa",
+   "cat": "観光",
+   "lat": 22.3295,
+   "lng": 103.8465,
+   "approx": false,
+   "desc": "サパの絶景をバックに、巨大な手のオブジェやブランコなど様々なフォトスポットで写真撮影が楽しめる施設です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "flVLOxfsGBA"
+    }
+   ]
+  },
+  {
+   "slug": "vinh-ha-long",
+   "name": "ハロン湾",
+   "local": "Vịnh Hạ Long",
+   "area": "halong",
+   "cat": "自然",
+   "lat": 20.9068,
+   "lng": 107.1859,
+   "approx": true,
+   "desc": "世界遺産にも登録されているベトナムを代表する景勝地。クルーズ船に乗り、奇岩が連なる美しい景色を楽しむことができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    }
+   ]
+  },
+  {
+   "slug": "hang-sung-sot",
+   "name": "スンソット洞窟",
+   "local": "Hang Sửng Sốt",
+   "area": "halong",
+   "cat": "自然",
+   "lat": 20.8422,
+   "lng": 107.0911,
+   "approx": false,
+   "desc": "ハロン湾で最大規模を誇る美しい鍾乳洞。複数の動画で紹介されており、ライトアップされた神秘的で広大な洞窟内部を歩いて見学できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "dao-ti-top",
+   "name": "ティートップ島",
+   "local": "Đảo Ti Tốp",
+   "area": "halong",
+   "cat": "自然",
+   "lat": 20.8588,
+   "lng": 107.0801,
+   "approx": false,
+   "desc": "ハロン湾を見渡す絶景スポットがある島。複数の動画で登場し、急な階段を登って山頂の展望台からハロン湾のパノラマビューを満喫する様子が紹介されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "IgiIkW17ckM"
+    },
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "tuan-chau-international-marina",
+   "name": "トゥアンチャウ国際港",
+   "local": "Tuan Chau International Marina",
+   "area": "halong",
+   "cat": "観光",
+   "lat": 20.9275,
+   "lng": 107.0085,
+   "approx": false,
+   "desc": "ハロン湾クルーズの起点となる立派な港。ここから豪華なクルーズ船に乗船してツアーがスタートします。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "luon-cave",
+   "name": "ルオン洞窟",
+   "local": "Luon Cave",
+   "area": "halong",
+   "cat": "体験",
+   "lat": 20.8725,
+   "lng": 107.0845,
+   "approx": false,
+   "desc": "ハロン湾の美しい岩山に囲まれたエリア。カヤックに乗って洞窟をくぐり、大自然を満喫することができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "THl32LUlwIo"
+    }
+   ]
+  },
+  {
+   "slug": "intercontinental-danang-sun-peninsula-re",
+   "name": "インターコンチネンタル ダナン サン ペニンシュラ リゾート",
+   "local": "InterContinental Danang Sun Peninsula Resort",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "ダナンのソンチャ半島に位置する超豪華な5つ星リゾートホテル。ビル・ベンスリー氏がデザインした個性的な客室や、素晴らしいオーシャンビューが魅力です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "citron",
+   "name": "シトロン",
+   "local": "Citron",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "インターコンチネンタルホテル内にあるメインレストラン。絶景を望む空中ノンラー席が有名で、朝食ビュッフェやベトナム料理ランチを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "the-long-bar",
+   "name": "ロングバー",
+   "local": "The Long Bar",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.1205,
+   "lng": 108.312,
+   "approx": false,
+   "desc": "ホテル内のビーチ沿いにある、全長50メートルのスタイリッシュなバー。アペロールスプリッツなどのカクテルや、巨大なティラミスを堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "tingara",
+   "name": "ティンガラ",
+   "local": "Tingara",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "ホテル内にあるモダンジャパニーズレストラン。日本から輸入した食材や水を使用し、手打ちそばや鉄板焼き、キャビアテイスティングなどを提供しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "bensley-outsider-gallery",
+   "name": "ベンスリー アウトサイダー ギャラリー",
+   "local": "Bensley Outsider Gallery",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "ホテルの建築デザイナーであるビル・ベンスリー氏のアートギャラリー。パンデミック中に描き始めたというカラフルでユニークな絵画が展示されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "mi-sol-spa",
+   "name": "ミ・ソル・スパ",
+   "local": "Mi Sol Spa",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "ホテル内にある高級スパ。心地よい香りに包まれたカップルルームで、旅の疲れを癒やすトリートメントを受けられます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "yoga-pavilion",
+   "name": "ヨガパビリオン",
+   "local": "Yoga Pavilion",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.1215,
+   "lng": 108.3111,
+   "approx": false,
+   "desc": "ホテル内にあるヨガスタジオ。海を望む空間で、エアリアルヨガやシンギングボウルを使ったサウンドバスを体験できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "my-khe-beach",
+   "name": "ミーケービーチ",
+   "local": "My Khe Beach",
+   "area": "danang",
+   "cat": "自然",
+   "lat": 16.0613,
+   "lng": 108.2485,
+   "approx": false,
+   "desc": "ダナンを代表する美しいビーチ。複数の動画で紹介されており、砂浜でのダンスや朝の散策、日の出の絶景、海風を楽しむ様子が描かれています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "3pU_mJFd-E8"
+    },
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "livie-da-nang-style",
+   "name": "LIVIE ダナン スタイル",
+   "local": "LIVIE Da Nang Style",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.0694,
+   "lng": 108.2414,
+   "approx": true,
+   "desc": "ミーケービーチ徒歩圏の緑豊かでボタニカルなおしゃれホテル。1泊約5000円で、可愛いタイル張りのバスルームやベランダ付き。ぽんぽこのダナン旅の拠点として2本の動画に登場。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "3pU_mJFd-E8"
+    },
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "kua-casa-suite-hotel",
+   "name": "クア カーサ スイート ホテル",
+   "local": "Kua Casa Suite Hotel",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.0691,
+   "lng": 108.2416,
+   "approx": false,
+   "desc": "スタイリッシュな内装の部屋や、ダナンの街と海を一望できる屋上プールが備わっている1泊約6000円のホテルです。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "3pU_mJFd-E8"
+    }
+   ]
+  },
+  {
+   "slug": "pho-cu-ha-noi",
+   "name": "フォー クー ハノイ",
+   "local": "Phở Cù Hà Nội",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0664,
+   "lng": 108.2215,
+   "approx": false,
+   "desc": "ダナン市内にあるフォーの人気店。牛肉がたっぷり入った本場のフォー・ボーを約300円で味わうことができ、その美味しさが大絶賛されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "3pU_mJFd-E8"
+    }
+   ]
+  },
+  {
+   "slug": "cau-rong",
+   "name": "ドラゴンブリッジ (ロン橋)",
+   "local": "Cầu Rồng",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0611,
+   "lng": 108.2275,
+   "approx": false,
+   "desc": "ダナンのハン川に架かる、巨大な龍を模した有名な橋。複数の動画で紹介されており、夜間のライトアップや、週末の夜に開催される大迫力の火と水を噴くショーが人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "3pU_mJFd-E8"
+    },
+    {
+     "type": "youtube",
+     "id": "hTjgY8vdcZE"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "haian-beach-hotel-spa",
+   "name": "ハイアン ビーチ ホテル & スパ",
+   "local": "HAIAN Beach Hotel & Spa",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.0695,
+   "lng": 108.2475,
+   "approx": false,
+   "desc": "屋上のインフィニティプールが魅力的なビーチ沿いのホテル。宿泊者向けのアフタヌーンティーや豪華な朝食ブッフェも楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "sen-boutique-spa",
+   "name": "セン ブティック スパ",
+   "local": "SEN Boutique Spa",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.0612,
+   "lng": 108.2438,
+   "approx": false,
+   "desc": "緑豊かで落ち着いた雰囲気が魅力的なスパ。ウェルカムドリンクをいただいた後、90分の気持ち良いマッサージコースを体験できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "hai-san-moc-quan-da-nang",
+   "name": "ハイサン モック クアン",
+   "local": "Hải Sản Mộc quán Đà Nẵng",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0617,
+   "lng": 108.2427,
+   "approx": false,
+   "desc": "生簀から新鮮な海鮮を選んで調理してもらうスタイルの人気レストラン。伊勢海老や蟹、パエリア風のご飯などを贅沢に堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "paradise-beach-bar-cinema",
+   "name": "パラダイス ビーチ バー & シネマ",
+   "local": "Paradise Beach Bar & Cinema",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0691,
+   "lng": 108.2484,
+   "approx": false,
+   "desc": "ミーケービーチ沿いにあるおしゃれな野外ビーチバー。複数の動画で紹介されており、冷たいフルーツジュースや、波の音を聞きながら屋外スクリーンで映画とビールを楽しむ様子が描かれています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "starbucks-coffee",
+   "name": "スターバックス コーヒー ダナン店",
+   "local": "Starbucks Coffee",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0693,
+   "lng": 108.2471,
+   "approx": false,
+   "desc": "ビーチ近くにあるスターバックス。ノンラーをかぶった限定のクマのぬいぐるみやマグカップなどのグッズをチェックできます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "cafe-cua-ngo",
+   "name": "カフェ クア ゴー",
+   "local": "Cafe Cửa Ngõ",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0245,
+   "lng": 108.2165,
+   "approx": false,
+   "desc": "モロッコ風の土壁や階段など、映える撮影スポットがたくさんあるおしゃれなカフェ。クリームの乗ったコーヒーをいただけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "son-tra-marina",
+   "name": "ソンチャ マリーナ",
+   "local": "Sơn Trà Marina",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.1006,
+   "lng": 108.2778,
+   "approx": false,
+   "desc": "ギリシャのサントリーニ島を思わせる、白と青を基調とした美しいデザイン of カフェ。海を眺めながらパスタやドリンクを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "hoa-ly",
+   "name": "ホアリー",
+   "local": "Hoa Ly",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0664,
+   "lng": 108.2235,
+   "approx": false,
+   "desc": "日本人オーナーが営む、可愛いベトナム雑貨が揃う人気のお土産ショップ。複数の動画で紹介されており、刺繍入りの巾着やプラカゴ、かごバッグなどが人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "highlands-coffee",
+   "name": "ハイランズ コーヒー (街歩き)",
+   "local": "Highlands Coffee",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.066,
+   "lng": 108.2238,
+   "approx": true,
+   "desc": "ベトナム発祥の大手カフェチェーン。街歩きの途中に立ち寄り、冷たいドリンクでカフェインを補給できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "cho-han",
+   "name": "ハン市場",
+   "local": "Chợ Hàn",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0682,
+   "lng": 108.2244,
+   "approx": false,
+   "desc": "ダナン中心部にある活気あふれる大規模な屋内市場。複数の動画で紹介されており、ドライフルーツや衣類、タイパンツ、雑貨、アオザイの仕立てなど、お土産探しやローカルな雰囲気を楽しむスポットとして人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "horizon-bar",
+   "name": "ホライズン バー",
+   "local": "Horizon Bar",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0818,
+   "lng": 108.2458,
+   "approx": false,
+   "desc": "フォーポインツ・バイ・シェラトン・ダナンの36階にあるルーフトップバー。夜景を眺めながらハンバーガーとドリンクを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "pizza-4p-s-indochina",
+   "name": "ピザ 4P's インドシナ店",
+   "local": "Pizza 4P's Indochina",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.068,
+   "lng": 108.2235,
+   "approx": false,
+   "desc": "日本人がベトナムで立ち上げた大人気のピザレストラン。ブッラータチーズが乗ったハーフ＆ハーフのピザなどを堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "queen-spa",
+   "name": "クイーン スパ",
+   "local": "Queen Spa",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.0621,
+   "lng": 108.2425,
+   "approx": false,
+   "desc": "エジプト風のユニークな内装の個室があるスパ。旅の最後に駆け込みでマッサージを受け、リフレッシュできます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "chicland-danang-beach-hotel",
+   "name": "チックランド ダナン ビーチ ホテル",
+   "local": "Chicland Danang Beach Hotel",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.0695,
+   "lng": 108.2465,
+   "approx": false,
+   "desc": "緑に囲まれた外観が特徴的な、ミーケービーチ沿いのおしゃれでコスパの良いホテル。屋上にはインフィニティプールやラウンジもあります。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "tan",
+   "name": "タン",
+   "local": "tan.",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0701,
+   "lng": 108.2435,
+   "approx": false,
+   "desc": "インダストリアルな雰囲気がおしゃれな吹き抜けのあるカフェ。冷たくて美味しいドリンクで一息つけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "da-nang-cathedral",
+   "name": "ダナン大聖堂",
+   "local": "Da Nang Cathedral",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0667,
+   "lng": 108.2239,
+   "approx": false,
+   "desc": "パステルピンクの可愛らしい外観が特徴の、フランス植民地時代に建てられた歴史あるカトリック教会。複数の動画でその美しい外観が紹介されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "maison-marou-flagship-da-nang",
+   "name": "メゾン・マルゥ・フラッグシップ・ダナン",
+   "local": "Maison Marou Flagship Da Nang",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0659,
+   "lng": 108.2238,
+   "approx": false,
+   "desc": "ベトナム発の有名な高級チョコレート専門店。パッケージも可愛く、お土産にぴったりです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "banh-xeo-ba-duong",
+   "name": "バインセオ・バーズオン",
+   "local": "Bánh Xèo Bà Dưỡng",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0581,
+   "lng": 108.2198,
+   "approx": false,
+   "desc": "ミシュランビブグルマンを連続受賞している、ダナンで超有名なバインセオ専門店。複数の動画で紹介されており、ライスペーパーに野菜とバインセオを巻いて特製ソースで食べる絶品メニューが絶賛されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "taran-danang",
+   "name": "タラン・ダナン",
+   "local": "taran.danang",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0487,
+   "lng": 108.2427,
+   "approx": false,
+   "desc": "日本人オーナーが運営するベトナム発のオーガニックコスメ店。タヌマオイルを使用したスキンケア商品や香りのアイテムが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "yma-studio",
+   "name": "イマ・スタジオ",
+   "local": "YMa studio",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0392,
+   "lng": 108.2458,
+   "approx": false,
+   "desc": "おしゃれな食器や生活雑貨をセレクトしている素敵な雑貨屋さん。珪藻土のコースターなどが手に入ります。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "sunglow",
+   "name": "サングロウ",
+   "local": "Sunglow",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0494,
+   "lng": 108.2455,
+   "approx": false,
+   "desc": "ダナンで人気の日系セレクトショップ。オリジナルTシャツやセンスあふれるベトナム土産が豊富に揃います。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "east-west-brewing-co",
+   "name": "イーストウエスト・ブリューイング",
+   "local": "East West Brewing Co.",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0718,
+   "lng": 108.2468,
+   "approx": false,
+   "desc": "ホテルの目の前にある、ミーケービーチを眺めながらゆっくりくつろげるクラフトビール屋さんです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "the-hangart-danang",
+   "name": "ザ・ハンガート・ダナン",
+   "local": "The Hangart Danang",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 15.9325,
+   "lng": 108.3125,
+   "approx": false,
+   "desc": "ベトナム伝統工芸を体験できる複合施設。伝統的な刺繍体験ワークショップにチャレンジできます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "dom-cafe",
+   "name": "ドムカフェ",
+   "local": "Đốm Café",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0645,
+   "lng": 108.2215,
+   "approx": false,
+   "desc": "可愛いワンコやニャンコに会える、アットホームで居心地の良いカフェです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "ramen-yushoken",
+   "name": "ラーメン優原軒",
+   "local": "Ramen Yushoken",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0655,
+   "lng": 108.2218,
+   "approx": false,
+   "desc": "埼玉県熊谷市発祥のラーメン店。クオリティの高いラーメンやチャーハンが味わえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "v7-tab-coffee",
+   "name": "V7 タブコーヒー",
+   "local": "V7 Tab Coffee",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0598,
+   "lng": 108.2235,
+   "approx": false,
+   "desc": "住宅街に佇む、レトロでおしゃれな日本風の雰囲気を感じるカフェ。木陰のオープンエア席が心地よいです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "the-local-beans",
+   "name": "ザ・ローカルビーンズ",
+   "local": "The Local Beans",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0628,
+   "lng": 108.2195,
+   "approx": false,
+   "desc": "ロースタリーとコワーキングスペースが融合した、モダンで開放的なカフェです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "mieng-pizza",
+   "name": "ミエンピザ",
+   "local": "Mieng Pizza",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0515,
+   "lng": 108.2448,
+   "approx": false,
+   "desc": "ホテル近くにあるローカルイタリアンレストラン。生地が軽くてペロッと食べられる美味しいピザが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "FUNhxX7QmV8"
+    }
+   ]
+  },
+  {
+   "slug": "hieu-vang-soan-ha",
+   "name": "ゴールドショップ ソアンハ",
+   "local": "Hiệu Vàng Soạn Hà",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0683,
+   "lng": 108.2241,
+   "approx": false,
+   "desc": "ハン市場の向かいにあるゴールドショップで、ダナンでレートが良いと評判の両替スポットです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "bep-hen",
+   "name": "ベップ・ヘン",
+   "local": "Bếp Hên",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0638,
+   "lng": 108.2217,
+   "approx": false,
+   "desc": "レトロで可愛らしい内装のベトナム家庭料理レストラン。揚げ春巻きやエビのキャラメリゼなどを堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "mandila-beach-hotel-danang",
+   "name": "マンディラ ビーチ ホテル",
+   "local": "Mandila Beach Hotel Danang",
+   "area": "danang",
+   "cat": "宿",
+   "lat": 16.0689,
+   "lng": 108.2464,
+   "approx": false,
+   "desc": "ミーケービーチ沿いに位置するオーシャンビューのホテル。屋上にはインフィニティプールがあり、素晴らしい景色を楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "nam-house-cafe",
+   "name": "ナムハウス カフェ",
+   "local": "NAM house Cafe",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0633,
+   "lng": 108.2205,
+   "approx": false,
+   "desc": "レトロでヴィンテージ感あふれるアンティーク雑貨に囲まれた隠れ家カフェ。複数の動画で紹介されており、ココナッツコーヒーやエッグコーヒーを味わいながらゆったり過ごせる空間が人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "cho-dem-son-tra",
+   "name": "ソンチャ ナイトマーケット",
+   "local": "Chợ đêm Sơn Trà",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0615,
+   "lng": 108.2335,
+   "approx": false,
+   "desc": "ドラゴンブリッジの近くで開催されるダナン最大級のナイトマーケット。複数の動画で紹介されており、活気ある夜の雰囲気の中で屋台グルメやロールアイス、ベトナム風たこ焼きなどが楽しめます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hTjgY8vdcZE"
+    },
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "mia-spa",
+   "name": "ミアスパ",
+   "local": "Mia Spa",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.0615,
+   "lng": 108.2335,
+   "approx": true,
+   "desc": "ソンチャナイトマーケット内にあるマッサージ店。フットマッサージや肩・首のマッサージが非常に上手で、旅の疲れが癒やされます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "be-ni-2",
+   "name": "ベーニ2",
+   "local": "Bé Ni 2",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0681,
+   "lng": 108.2463,
+   "approx": false,
+   "desc": "ホテルの近くにある24時間営業 of シーフードレストラン。店頭の生け簀からエビや魚を選んで、好みの調理法で提供してもらえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hBEzCA5bgHg"
+    }
+   ]
+  },
+  {
+   "slug": "sun-world-asia-park",
+   "name": "サンワールド・アジアパーク",
+   "local": "Sun World Asia Park",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0394,
+   "lng": 108.2278,
+   "approx": false,
+   "desc": "アジア各国の要素が盛り込まれた遊園地。かつて滋賀県のびわ湖タワーにあった巨大観覧車が移設され、現在も稼働しています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hTjgY8vdcZE"
+    }
+   ]
+  },
+  {
+   "slug": "helio-night-food-zone",
+   "name": "ヘリオ・ナイトフードゾーン",
+   "local": "Helio Night Food Zone",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0378,
+   "lng": 108.2255,
+   "approx": false,
+   "desc": "アジアパークのすぐ隣にある、おしゃれな雰囲気の夜市。フリーライブが開催される賑やかな空間で、冷たいマンゴースムージーを味わえます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hTjgY8vdcZE"
+    }
+   ]
+  },
+  {
+   "slug": "xoi-bun-mang-ga-ba-vui",
+   "name": "ソイガー・バーブイ",
+   "local": "Xôi, Bún măng gà bà Vui",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0583,
+   "lng": 108.2192,
+   "approx": false,
+   "desc": "朝食に訪れたローカル食堂。鶏だしで炊いたもち米に鶏肉やフライドオニオンが乗ったソイガーを堪能できます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "co-may",
+   "name": "コメイ",
+   "local": "Co May",
+   "area": "danang",
+   "cat": "雑貨・土産",
+   "lat": 16.0644,
+   "lng": 108.2241,
+   "approx": false,
+   "desc": "日本語が通じるアットホームなお土産店。バッチャン焼きの陶器や刺繍小物を購入し、サービスでドライマンゴーとコーヒーを頂けます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "esco-beach-da-nang",
+   "name": "エスコビーチ・ダナン",
+   "local": "Esco Beach Da Nang",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0641,
+   "lng": 108.2468,
+   "approx": false,
+   "desc": "ミーケービーチ沿いにあるリゾート感あふれるレストラン。海を眺めながらボリューム満点のイングリッシュ・ブレックファストを楽しめます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "tie-tag-coffee",
+   "name": "タイタグ・コーヒー",
+   "local": "Tie Tag Coffee",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0592,
+   "lng": 108.2413,
+   "approx": false,
+   "desc": "街歩きの途中に立ち寄ったお洒落なカフェ。濃厚なマンゴースムージーを飲んで涼めます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "charm-spa",
+   "name": "チャームスパ",
+   "local": "CHARM SPA",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.0598,
+   "lng": 108.2425,
+   "approx": false,
+   "desc": "口コミで評判のマッサージ店。足湯から始まる本格的な施術で、歩き疲れた体をリフレッシュできます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "vincom-plaza-danang",
+   "name": "ビンコムプラザ ダナン",
+   "local": "Vincom Plaza Danang",
+   "area": "danang",
+   "cat": "観光",
+   "lat": 16.0755,
+   "lng": 108.2285,
+   "approx": false,
+   "desc": "様々なショップや飲食店、ゲームセンター、映画館などが入る近代的なショッピングモール。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "highlands-coffee-vincom-plaza",
+   "name": "ハイランズコーヒー (ビンコムプラザ店)",
+   "local": "Highlands Coffee (Vincom Plaza)",
+   "area": "danang",
+   "cat": "カフェ・喫茶",
+   "lat": 16.0755,
+   "lng": 108.2285,
+   "approx": false,
+   "desc": "ビンコムプラザ内にあるベトナム大手のコーヒーチェーン。非常に濃厚で苦味の強いブラックコーヒーを味わえます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "com-ga-a-hai",
+   "name": "コムガー・アーハイ",
+   "local": "Com ga A HAI",
+   "area": "danang",
+   "cat": "グルメ",
+   "lat": 16.0681,
+   "lng": 108.2161,
+   "approx": false,
+   "desc": "ダナン名物のチキンライスコムガーの人気店。パリパリに揚げられた大きなチキンが乗ったご飯をリーズナブルに楽しめます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "club-seven-dragon",
+   "name": "セブンドラゴン",
+   "local": "Club Seven Dragon",
+   "area": "danang",
+   "cat": "体験",
+   "lat": 16.0715,
+   "lng": 108.2455,
+   "approx": false,
+   "desc": "ホテル近くにあるカジュアルなカジノ。フリードリンクやフリーフードを楽しみながらゲームに挑戦できます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "taran-hoi-an",
+   "name": "タラン ホイアン",
+   "local": "taran. Hoi An",
+   "area": "hoian",
+   "cat": "雑貨・土産",
+   "lat": 15.8775,
+   "lng": 108.3245,
+   "approx": false,
+   "desc": "日本人オーナーが手がけるオーガニックコスメと香りのショップ。タマヌオイルやソイキャンドル、バームなどがお土産として人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "chua-cau",
+   "name": "来遠橋（日本橋）",
+   "local": "Chùa Cầu",
+   "area": "hoian",
+   "cat": "観光",
+   "lat": 15.8771,
+   "lng": 108.3259,
+   "approx": false,
+   "desc": "ホイアン旧市街の象徴である歴史的な屋根付きの橋。かつて日本人によって架けられたとされ、2万ドン紙幣にも描かれており、夜のライトアップも美しく複数の動画で定番として紹介されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "morning-glory-signature",
+   "name": "モーニンググローリー・シグネチャー",
+   "local": "Morning Glory Signature",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.8774,
+   "lng": 108.3285,
+   "approx": false,
+   "desc": "ホイアン旧市街にある人気のベトナム料理レストラン。おしゃれな店内で、様々な伝統料理を堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "quan-tre-nguon",
+   "name": "クアン・チェー・グオン",
+   "local": "Quán Tre Nguồn",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.8771,
+   "lng": 108.3252,
+   "approx": false,
+   "desc": "ホイアン旧市街にあるローカルなチェー（ベトナム風ぜんざい）のお店。具だくさんの全部乗せチェーが味わえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "-9FgkfdJ6e0"
+    }
+   ]
+  },
+  {
+   "slug": "rung-dua-bay-mau",
+   "name": "カムタイン ココナッツビレッジ",
+   "local": "Rừng Dừa Bảy Mẫu",
+   "area": "hoian",
+   "cat": "体験",
+   "lat": 15.8745,
+   "lng": 108.3685,
+   "approx": false,
+   "desc": "丸い竹製のココナッツボートに乗って水上を進む人気アクティビティ。ボートを激しく回転させる大迫力のパフォーマンスも見学できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "cocobox-juice-bar-cafe-farm-shop",
+   "name": "ココボックス",
+   "local": "CocoBox - Juice bar & Cafe Farm Shop",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.8774,
+   "lng": 108.3284,
+   "approx": false,
+   "desc": "ガイドブックでも紹介されるオーガニックカフェ。開放感のあるおしゃれな店内で、健康的なフルーツジュースがいただけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "hoi-an-roastery",
+   "name": "ホイアン ロースタリー",
+   "local": "Hoi An Roastery",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.8772,
+   "lng": 108.3292,
+   "approx": false,
+   "desc": "ホイアン旧市街にある人気のカフェ。コーヒー豆や周辺グッズの販売も行っており、お土産探しにもぴったりです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-phuong",
+   "name": "バインミーフオン",
+   "local": "Bánh Mì Phượng",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.8778,
+   "lng": 108.332,
+   "approx": false,
+   "desc": "世界一美味しいとも称される、ホイアンを代表する超有名バインミー専門店。サクサクのパンに具材がたっぷり入った絶品バインミーが複数の動画で大絶賛されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    },
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    },
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "sunday-in-hoi-an",
+   "name": "サンデー イン ホイアン",
+   "local": "Sunday in Hoi An",
+   "area": "hoian",
+   "cat": "雑貨・土産",
+   "lat": 15.8771,
+   "lng": 108.3268,
+   "approx": false,
+   "desc": "可愛いインテリア雑貨やバッグなどを取り扱うおしゃれなショップ。ロゴ入りのトートバッグなどがお土産に人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "reaching-out-teahouse",
+   "name": "リーチング アウト ティーハウス",
+   "local": "Reaching Out Teahouse",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.8772,
+   "lng": 108.3291,
+   "approx": false,
+   "desc": "言語・聴覚障害を持つスタッフが働く、非常に静かで落ち着いた雰囲気のティーハウス。ベトナムコーヒーのテイスティングセットなどが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "art-spa",
+   "name": "アート スパ",
+   "local": "Art Spa",
+   "area": "hoian",
+   "cat": "体験",
+   "lat": 15.8761,
+   "lng": 108.3265,
+   "approx": false,
+   "desc": "ホイアン旧市街近くにあるスパ。施術前後のドリンクやスイカのサービスもあり、とても気持ちの良いマッサージを体験できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "abBUDVmbwXk"
+    }
+   ]
+  },
+  {
+   "slug": "reu-boutique-hotel",
+   "name": "レウ ブティック ホテル",
+   "local": "Rêu Boutique Hotel",
+   "area": "hoian",
+   "cat": "宿",
+   "lat": 15.889311,
+   "lng": 108.337194,
+   "approx": false,
+   "desc": "田んぼの中にポツンと現れる、丸みを帯びたデザインが特徴的なブティックホテル。緑に囲まれた静かな空間で、ジブリの世界のような雰囲気が漂います。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "madam-khanh-the-banh-mi-queen",
+   "name": "マダム・カーン ザ・バインミー・クイーン",
+   "local": "Madam Khánh - The Bánh Mì Queen",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.881023,
+   "lng": 108.329971,
+   "approx": false,
+   "desc": "ホイアンで大人気のバインミー専門店。手際よく作られる具だくさんのバインミーは絶品で、ミックスやBBQ味がおすすめです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "nang-ceramics",
+   "name": "ナン セラミック",
+   "local": "Nang ceramics",
+   "area": "hoian",
+   "cat": "雑貨・土産",
+   "lat": 15.881267,
+   "lng": 108.325987,
+   "approx": false,
+   "desc": "ベトナム南部で作られる伝統的な「ソンベ焼き」を扱う陶器店。手描きの温かみある器のほか、金継ぎにインスパイアされたアクセサリーも販売しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "cong-chua-ba-mu",
+   "name": "バームー寺門遺跡",
+   "local": "Cổng Chùa Bà Mụ",
+   "area": "hoian",
+   "cat": "観光",
+   "lat": 15.879556,
+   "lng": 108.326889,
+   "approx": false,
+   "desc": "17世紀に建立された寺院の美しい門の遺跡。旧市街の歴史を感じられるスポットで、写真撮影にも人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "fefe-roastery",
+   "name": "フェフェ ロースタリー",
+   "local": "FeFe Roastery",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.879167,
+   "lng": 108.327222,
+   "approx": false,
+   "desc": "バームー寺門の目の前にある、奥行きのある広々としたカフェ。ベトナムで流行している甘塩っぱい味わいの塩コーヒーが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "cobb-restaurant",
+   "name": "コブ レストラン",
+   "local": "cobb restaurant",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.875556,
+   "lng": 108.324167,
+   "approx": false,
+   "desc": "日本人オーナーが営む、川沿いにある落ち着いた雰囲気のレストラン。水牛のテンダーロインステーキやタコサラダなど、丁寧に作られた絶品料理を堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "hoi-an-roastery-espresso-coffee-house",
+   "name": "ホイアン ロースタリー エスプレッソ ＆ コーヒーハウス",
+   "local": "Hoi An Roastery Espresso & Coffee House",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.877556,
+   "lng": 108.328333,
+   "approx": false,
+   "desc": "ホイアン発の自家焙煎コーヒーショップ。すっきりとした味わいのオレンジエスプレッソを飲みながら、窓の外を行き交うシクロを眺めて過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "tam-tea-retreat",
+   "name": "タム ティー リトリート",
+   "local": "tầm.tea retreat",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.879167,
+   "lng": 108.328889,
+   "approx": false,
+   "desc": "旧市街の路地裏にある、静かでモダンなお茶の専門店。エアコンが効いた快適な店内で、コールドブリューの緑茶やコンブチャをゆっくり楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "cho-hoi-an",
+   "name": "ホイアン市場",
+   "local": "Chợ Hội An",
+   "area": "hoian",
+   "cat": "観光",
+   "lat": 15.8775,
+   "lng": 108.3325,
+   "approx": false,
+   "desc": "地元の食材や日用品、お土産などが並ぶ活気あふれる市場。内部にはローカルフードが食べられる食堂街もあります。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "ms-hoa-lo-e051",
+   "name": "ミス ホア",
+   "local": "MS. HOA (LÔ E051)",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.8775,
+   "lng": 108.3325,
+   "approx": false,
+   "desc": "ホイアン市場内にある人気のローカル食堂。名物のカオラウや、素朴で優しい味わいのフォーを目の前で作ってもらえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "hoi-an-coffee-hub",
+   "name": "ホイアン コーヒー ハブ",
+   "local": "Hoi An Coffee Hub",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.876944,
+   "lng": 108.3275,
+   "approx": false,
+   "desc": "細い小道の奥にひっそりと佇む、緑豊かな隠れ家風カフェ。濃厚で甘い卵の泡と苦味のあるコーヒーがマッチしたエッグコーヒーが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "7-bridges-hoi-an-craft-beer-taproom",
+   "name": "セブン ブリッジズ ホイアン クラフトビール タップルーム",
+   "local": "7 Bridges Hoi An Craft Beer Taproom",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.877778,
+   "lng": 108.331389,
+   "approx": false,
+   "desc": "38種類ものクラフトビールを取り揃えるタップルーム。レトロで奥行きのあるホイアンらしい建物の中で、冷たいビールを味わえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "every-half-coffee-roasters",
+   "name": "エブリ ハーフ コーヒー ロースターズ",
+   "local": "Every Half Coffee Roasters",
+   "area": "hoian",
+   "cat": "カフェ・喫茶",
+   "lat": 15.884444,
+   "lng": 108.321667,
+   "approx": false,
+   "desc": "ホーチミン発のスペシャルティコーヒーチェーン。緑豊かな「ホイアン シルク ビレッジ」内にあり、珍しいパンプキンラテなどを提供しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "lim-dining-room",
+   "name": "リム ダイニング ルーム",
+   "local": "Lim Dining Room",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.876944,
+   "lng": 108.328333,
+   "approx": false,
+   "desc": "旧市街にある、伝統的な建物を活かしたおしゃれなイタリアンレストラン。ハッピーアワーのワインと共に、本格的なピザやカプレーゼを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "hUd12_Q6JcI"
+    }
+   ]
+  },
+  {
+   "slug": "fujian-assembly-hall",
+   "name": "福建会館",
+   "local": "Fujian Assembly Hall",
+   "area": "hoian",
+   "cat": "観光",
+   "lat": 15.8772,
+   "lng": 108.3317,
+   "approx": false,
+   "desc": "中国の福建省出身の人々によって建てられた華やかな会館。精巧な彫刻や美しいタイルが印象的です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "phung-hung-old-house",
+   "name": "フーンフンの家",
+   "local": "Phung Hung Old House",
+   "area": "hoian",
+   "cat": "観光",
+   "lat": 15.8771,
+   "lng": 108.3256,
+   "approx": false,
+   "desc": "日本、中国、ベトナムの建築様式が融合した、歴史ある木造の古民家です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "pho-xua",
+   "name": "フォースア",
+   "local": "Pho Xua",
+   "area": "hoian",
+   "cat": "グルメ",
+   "lat": 15.8781,
+   "lng": 108.3311,
+   "approx": false,
+   "desc": "ホイアン旧市街にある人気のベトナム料理店。名物のカオラウやホワイトローズを堪能できます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "mnOBhN454wY"
+    }
+   ]
+  },
+  {
+   "slug": "eden-garden-hotel",
+   "name": "エデン ガーデン ホテル",
+   "local": "Eden Garden Hotel",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7679,
+   "lng": 106.6925,
+   "approx": false,
+   "desc": "ホーチミンのブイビエン通り近くにあるホテル。1泊4000円程度で宿泊し、2日間滞在しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "huong-vy-restaurant",
+   "name": "フォンヴィ レストラン",
+   "local": "Huong Vy Restaurant",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7681,
+   "lng": 106.6928,
+   "approx": false,
+   "desc": "ホテルのすぐ近くにあるローカルレストラン。ブンボーフェーや生春巻きを注文し、店員や他のお客さんと楽しく交流しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "cho-ben-thanh",
+   "name": "ベンタイン市場",
+   "local": "Chợ Bến Thành",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7725,
+   "lng": 106.698,
+   "approx": false,
+   "desc": "ホーチミンを代表する活気あふれる巨大市場。複数の動画で紹介されており、お土産や衣類のショッピング、市場内の屋台でのスムージーやグルメが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    },
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "nha-tho-tan-dinh",
+   "name": "タンディン教会",
+   "local": "Nhà thờ Tân Định",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7903,
+   "lng": 106.6908,
+   "approx": false,
+   "desc": "鮮やかなピンク色の外観が可愛らしく、観光客に大人気のカトリック教会。多くの動画で記念撮影スポットとして紹介されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    },
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    },
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "chua-ngoc-hoang",
+   "name": "ジェイド・エンペラー・パゴダ（玉皇殿）",
+   "local": "Chùa Ngọc Hoàng",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7918,
+   "lng": 106.6981,
+   "approx": false,
+   "desc": "ホーチミンにある歴史ある寺院。池にたくさんの大きな魚が泳いでおり、靴を脱いで参拝しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "thao-cam-vien-sai-gon",
+   "name": "サイゴン動植物園",
+   "local": "Thảo Cầm Viên Sài Gòn",
+   "area": "hcmc",
+   "cat": "動物",
+   "lat": 10.7875,
+   "lng": 106.7053,
+   "approx": false,
+   "desc": "緑豊かな歴史ある動植物園。キリンにとても近い距離で遭遇したり、園内を散策したりしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "buu-dien-trung-tam-sai-gon",
+   "name": "サイゴン中央郵便局",
+   "local": "Bưu điện Trung tâm Sài Gòn",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7798,
+   "lng": 106.6999,
+   "approx": false,
+   "desc": "フランス植民地時代の美しい建築が残る歴史的な郵便局。複数の動画で定番の観光名所として紹介されており、レトロな内装の見学やお土産探しが楽しめます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    },
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    },
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "cong-ca-phe",
+   "name": "コンカフェ (ドンコイ通り店)",
+   "local": "Cộng Cà Phê",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7785,
+   "lng": 106.701,
+   "approx": false,
+   "desc": "レトロな共産主義風のインテリアが特徴のベトナムの人気カフェチェーン。アボカドヨーグルトや名物のココナッツコーヒーシェイクが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    },
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "h-m-vincom-center-dong-khoi",
+   "name": "H&M (ビンコムセンター店)",
+   "local": "H&M Vincom Center Dong Khoi",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7779,
+   "lng": 106.7019,
+   "approx": false,
+   "desc": "ショッピングモール内にあるH&M。可愛い麦わら帽子を見つけて即決で購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "tru-so-uy-ban-nhan-dan-thanh-pho-ho-chi",
+   "name": "ホーチミン人民委員会庁舎",
+   "local": "Trụ sở Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7765,
+   "lng": 106.7009,
+   "approx": false,
+   "desc": "ライトアップされた美しい人民委員会庁舎と、その前の広場で夜の散歩を楽しみました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "kien-chi-gia",
+   "name": "健之家",
+   "local": "Kien Chi Gia",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7731,
+   "lng": 106.7025,
+   "approx": false,
+   "desc": "日本語の看板もある人気のマッサージ店。旅の疲れを癒すためにフットマッサージを受けました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "shamballa-vegetarian-restaurant-tea-hous",
+   "name": "シャンバラ ベジタリアン レストラン",
+   "local": "Shamballa Vegetarian, Restaurant & Tea House",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7674,
+   "lng": 106.6978,
+   "approx": false,
+   "desc": "おしゃれなベジタリアンベトナム料理レストラン。スイカジュースやアボカドの春巻き、焼きそばなどを堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "reu-coffee",
+   "name": "レウ コーヒー",
+   "local": "réu.coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7692,
+   "lng": 106.7024,
+   "approx": false,
+   "desc": "緑を基調とした落ち着いた雰囲気のカフェ。おすすめされた「ももライチシェイク」を飲んでゆっくり過ごしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "08aFqzSdi40"
+    }
+   ]
+  },
+  {
+   "slug": "saigon-city-residence",
+   "name": "サイゴン シティ レジデンス",
+   "local": "Saigon City Residence",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7795,
+   "lng": 106.7045,
+   "approx": false,
+   "desc": "ホーチミン1区の日本人街近くにあるレジデンスホテル。洗濯機や浴槽が完備されており、観光に非常に便利な立地です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "quan-nem-restaurant",
+   "name": "クアン ネム レストラン",
+   "local": "Quan Nem Restaurant",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7845,
+   "lng": 106.6995,
+   "approx": false,
+   "desc": "CNNにも取り上げられた、蟹の揚げ春巻きとブンチャーが美味しいと評判の有名店です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "hu-tieu-hong-phat",
+   "name": "フーティウ ホンファット",
+   "local": "Hủ Tiếu Hồng Phát",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7732,
+   "lng": 106.6825,
+   "approx": false,
+   "desc": "ミシュランにも選ばれた、ベトナム南部の名物米麺「フーティウ」の老舗人気店。具だくさんのスープ麺や、うずらの卵が入った中華まんが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "che-khuc-bach-thanh",
+   "name": "チェー クック バイン タイン",
+   "local": "Chè Khúc Bạch Thanh",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7918,
+   "lng": 106.6898,
+   "approx": false,
+   "desc": "川沿いにあるローカルな雰囲気のチェー専門店。ライチと色とりどりの寒天が入った、さっぱりとした甘さのチェーが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "make-room",
+   "name": "メイク ルーム",
+   "local": "make room",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7695,
+   "lng": 106.6998,
+   "approx": false,
+   "desc": "お洒落な隠れ家風カフェ。とろとろの生ティラミスや、タマリンドベリーコールドブリューなどのユニークなドリンクが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "pho-minh",
+   "name": "フォー ミン",
+   "local": "Phở Minh",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7758,
+   "lng": 106.7001,
+   "approx": false,
+   "desc": "創業80年近い老舗のフォー専門店。ミシュランガイドにも掲載されており、あっさりとした牛骨スープの牛肉フォーが味わえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-chao-di-nu",
+   "name": "バインミーチャオ ディーヌー",
+   "local": "Banh Mi Chao Di Nu",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7725,
+   "lng": 106.6928,
+   "approx": false,
+   "desc": "熱々の鉄皿で提供される「バインミーチャオ」の人気店。トマトソースをベースにパテやベトナムハム、チーズなどをパンに挟んでいただきます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "giang-cafe",
+   "name": "ジアン カフェ",
+   "local": "Giang Cafe",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7812,
+   "lng": 106.6635,
+   "approx": false,
+   "desc": "壁一面にレコードが飾られたお洒落なカフェ。静かで落ち着いた雰囲気の中、ライチとミルク寒天のドリンクが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "deeritage",
+   "name": "ディーリテージ",
+   "local": "Deeritage",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7915,
+   "lng": 106.6885,
+   "approx": false,
+   "desc": "タンディン教会近くの路地裏にあるヴィンテージアクセサリー専門店。指輪や時計、ネックレスなど数多くのアンティーク小物が並びます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "madam-quyen",
+   "name": "マダム クエン",
+   "local": "Madam Quyen",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7741,
+   "lng": 106.7031,
+   "approx": false,
+   "desc": "カフェアパートメントの5階にある、壁一面のメモ用紙が印象的なカフェ。一人用サイズにぴったりな美味しいバインセオが食べられます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "the-e-y-e-saigon",
+   "name": "ザ アイ サイゴン",
+   "local": "The E.Y.E Saigon",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7741,
+   "lng": 106.7031,
+   "approx": false,
+   "desc": "カフェアパートメントの4階にある、可愛いトートバッグやカゴバッグで有名なお店。お土産探しにぴったりです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "matchandeul-bbq-ton-that-tung",
+   "name": "マッチャンドゥル BBQ トンタットゥン",
+   "local": "Matchandeul BBQ Ton That Tung",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7708,
+   "lng": 106.6885,
+   "approx": false,
+   "desc": "ホーチミンにある人気の韓国焼肉店。ジューシーなサムギョプサルや焼きチーズを、店員が目の前で美味しく焼いてくれます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "tuhu-ceramics",
+   "name": "トゥーフー セラミックス",
+   "local": "Tuhu Ceramics",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8051,
+   "lng": 106.7328,
+   "approx": false,
+   "desc": "タオディエン地区にある、モダンで可愛らしいデザインのベトナム伝統陶器を扱うショップ。温かみのある手描きのソンベ焼きや、ドット柄のマグカップなどが人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    },
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "hana-vietnam",
+   "name": "ハナ ベトナム",
+   "local": "HANA Vietnam",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8048,
+   "lng": 106.7325,
+   "approx": false,
+   "desc": "タオディエンにある、可愛いプラカゴバッグやカゴバッグの専門店。カラーバリエーションやデザインが非常に豊富です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "chi-mo",
+   "name": "チーモー",
+   "local": "Chi Mơ",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.8068,
+   "lng": 106.7308,
+   "approx": false,
+   "desc": "タオディエンにある、ベトナム在住者にも絶賛されるお洒落なフォー専門店。無添加にこだわり、上品なスープと上質な肉のフォーが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "ciao-ciao-gelato",
+   "name": "チャオチャオ ジェラート",
+   "local": "Ciao Ciao Gelato",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.8035,
+   "lng": 106.7342,
+   "approx": false,
+   "desc": "タオディエンにある人気のジェラート店。全18種類のフレーバーから選ぶことができ、コーンの底にはカリカリのラスクが入っています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "meta-show",
+   "name": "メタ ショー",
+   "local": "Meta Show",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.8275,
+   "lng": 106.7215,
+   "approx": false,
+   "desc": "ギガモールの8階で開催されている没入型のゴッホ展。ひまわりや星月夜などの名画の世界に入り込んだようなデジタルアート体験ができます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "muji-giga-mall",
+   "name": "無印良品 ギガモール店",
+   "local": "MUJI Giga Mall",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8275,
+   "lng": 106.7215,
+   "approx": false,
+   "desc": "ギガモール内にある無印良品。ベトナム限定デザインの刺繍トートバッグや、現地ならではのドライフルーツなどが販売されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "tonkin-specialty-coffee",
+   "name": "トンキン スペシャルティ コーヒー",
+   "local": "Tonkin Specialty Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7748,
+   "lng": 106.6965,
+   "approx": false,
+   "desc": "ベンタイン市場からすぐの場所にある、美味しいエッグコーヒーが飲める人気カフェ。飲むティラミスとも称される濃厚な味わいです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "duong-sach-thanh-pho-ho-chi-minh",
+   "name": "ブックストリート",
+   "local": "Đường Sách Thành Phố Hồ Chí Minh",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7808,
+   "lng": 106.6994,
+   "approx": false,
+   "desc": "サイゴン中央郵便局のすぐ隣にある、本屋やカフェが立ち並ぶ緑豊かな遊歩道。複数の動画で紹介されており、ポストカードや可愛い雑貨の購入、散策にぴったりです。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    },
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "l-entrecote",
+   "name": "ロントレコート",
+   "local": "L'Entrecôte",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7755,
+   "lng": 106.7035,
+   "approx": false,
+   "desc": "フランス発祥のステーキハウス。柔らかいオーストラリア産ビーフのステーキを、特製のブラックペッパーソースやマッシュポテトと共にリーズナブルに楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "46aeaQ5VmAg"
+    }
+   ]
+  },
+  {
+   "slug": "hotel-in-hem-bui-vien",
+   "name": "ホテルヘムカウ",
+   "local": "Hotel in Hẻm (Bùi Viện)",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7675,
+   "lng": 106.693,
+   "approx": true,
+   "desc": "動画内で「ホテルヘムカウ」と紹介されている、ブイビエン通りの路地（ヘム）の奥にあるホテル。隣のナイトクラブの騒音が激しい部屋でした。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "6JSnDIGnP3w"
+    }
+   ]
+  },
+  {
+   "slug": "shop-saigon-souvenir-shop",
+   "name": "ショップ サイゴン サブニアショップ",
+   "local": "Shop Saigon Souvenir Shop",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.76846,
+   "lng": 106.69183,
+   "approx": false,
+   "desc": "ファムグーラオ通りにあるお土産店。通りすがりのおばあちゃんに案内され、ノンラー（ベトナムの伝統的な帽子）を購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "6JSnDIGnP3w"
+    }
+   ]
+  },
+  {
+   "slug": "restaurant-near-eden-garden-hotel",
+   "name": "ブイビエン通りのレストラン",
+   "local": "Restaurant near Eden Garden Hotel",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7678,
+   "lng": 106.6935,
+   "approx": true,
+   "desc": "エデンガーデンホテルの向かいにあるオープンエアのレストラン。生春巻きと冷たいドリンクを堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "6JSnDIGnP3w"
+    }
+   ]
+  },
+  {
+   "slug": "m-village-living-vo-thi-sau",
+   "name": "エム ヴィレッジ リビング ヴォー ティ サウ",
+   "local": "M Village Living Vo Thi Sau",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7842,
+   "lng": 106.6885,
+   "approx": false,
+   "desc": "緑豊かでモダンなアパートメントスタイルのホテル。広々とした2ベッドルームの部屋に宿泊し、コインランドリーなどの設備も充実しています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "pho-hoa-pasteur",
+   "name": "フォー ホア パストゥール",
+   "local": "Phở Hòa Pasteur",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7875,
+   "lng": 106.6908,
+   "approx": false,
+   "desc": "ミシュランガイドにも掲載された、地元で大人気の老舗フォー専門店。あっさりしつつも旨味の強いスープの牛肉フォーや、揚げ春巻きが絶品と評判です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "ohquao-the-local-edit",
+   "name": "オークアオ ザ ローカル エディット",
+   "local": "OHQUAO The Local Edit",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7848,
+   "lng": 106.6953,
+   "approx": false,
+   "desc": "ベトナムのローカルアーティストによるイラストや雑貨、文房具などを扱うおしゃれなギフトショップ。可愛いパズルやマグネットを購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "grandmum-cafe",
+   "name": "グランドマム カフェ",
+   "local": "Grandmum Cafe",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7811,
+   "lng": 106.6845,
+   "approx": false,
+   "desc": "静かで落ち着いた雰囲気の隠れ家カフェ。ほどよい甘さのホワイトコーヒーを飲みながら、雨宿りを兼ねてゆっくり休憩しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "noir-spa",
+   "name": "ノワール スパ",
+   "local": "Noir. Spa",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7825,
+   "lng": 106.6961,
+   "approx": false,
+   "desc": "視覚障害を持つセラピストが施術を行う、暗闇をテーマにしたユニークなスパ。60分のマッサージコースで旅の疲れを癒やしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "winmart-vincom-center",
+   "name": "ウィンマート ビンコムセンター店",
+   "local": "WinMart Vincom Center",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7781,
+   "lng": 106.7019,
+   "approx": false,
+   "desc": "ショッピングモール「ビンコムセンター」の地下にあるスーパー。お土産用にインスタント麺やベトナムの調味料「サテトム」などを大量に購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "secret-garden",
+   "name": "シークレット ガーデン",
+   "local": "Secret Garden",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7779,
+   "lng": 106.6983,
+   "approx": false,
+   "desc": "ビルの屋上にある、緑に囲まれた隠れ家風のベトナム家庭料理レストラン。ガーリックシュリンプやバインセオが絶品で、滞年中2回も訪れました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "saigon-coffee-roastery",
+   "name": "サイゴン コーヒー ロースタリー",
+   "local": "Saigon Coffee Roastery",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7842,
+   "lng": 106.6885,
+   "approx": false,
+   "desc": "自家焙煎 of 本格的なコーヒーが楽しめるカフェ。お土産用のコーヒー豆を選んだり、甘くて美味しいキャラメルマキアートを味わいました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "pho-sol",
+   "name": "フォー ソル",
+   "local": "Phở SOL",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.8038,
+   "lng": 106.7315,
+   "approx": false,
+   "desc": "タオディエン地区にある、おしゃれで清潔感のあるフォー専門店。スープが濃厚でお肉の香ばしい味わいが特徴のフォーを堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "linh-s-furniture",
+   "name": "リンズ ファニチャー",
+   "local": "Linh's Furniture",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8042,
+   "lng": 106.7331,
+   "approx": false,
+   "desc": "カゴバッグやファブリック系アイテム、陶器などが充実しているインテリアショップ。外観の庭園も素敵です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "maison-marou-thao-dien",
+   "name": "メゾン マルゥ タオディエン",
+   "local": "Maison Marou Thao Dien",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.8045,
+   "lng": 106.7339,
+   "approx": false,
+   "desc": "ベトナム産の高品質なカカオを使用した有名チョコレートブランドの店舗。様々なフレーバーの板チョコを試食しながらお土産に選びました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "amai-thao-dien",
+   "name": "アマイ タオディエン店",
+   "local": "amai Thao Dien",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8044,
+   "lng": 106.7335,
+   "approx": false,
+   "desc": "ベルギー人デザイナーによる人気食器ブランド『amai』のタオディエン店。カラフルで歪んだ独特のフォルムが可愛い陶器が並び、アウトレット品（Grade b）もお得に手に入ります。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "song-be-store",
+   "name": "ソンベー ストア",
+   "local": "Sông Bé store",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8044,
+   "lng": 106.7335,
+   "approx": false,
+   "desc": "タオディエンのおしゃれな複合施設内にある、ベトナム伝統のソンベ焼き食器を扱うセレクトショップです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "we-said-space-said",
+   "name": "ウィー セッド スペース セッド",
+   "local": "We Said Space Said",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.8053,
+   "lng": 106.7329,
+   "approx": false,
+   "desc": "緑豊かな美しいお庭を眺めながら過ごせる、隠れ家のようなおしゃれカフェ。濃厚なアーモンドミルクのラテを楽しみました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "lamay",
+   "name": "ラメイ",
+   "local": "LaMay",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.779,
+   "lng": 106.7041,
+   "approx": false,
+   "desc": "伝統的なベトナムの工芸品やカゴバッグ、陶器などを扱うお土産ショップ。センスの良いセレクトが魅力で、可愛いベトナム雑貨が並びます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "111-concept-store",
+   "name": "111 コンセプト ストア",
+   "local": "111 Concept Store",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7758,
+   "lng": 106.7028,
+   "approx": false,
+   "desc": "ドンコイ通り近くにある、アパレルやユニークな雑貨、ZINEなどを取り扱うエッジの効いたおしゃれなセレクトショップ。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "co-opmart",
+   "name": "コープマート",
+   "local": "Co.opmart",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.767426,
+   "lng": 106.688194,
+   "approx": false,
+   "desc": "地元の人々で賑わうローカルな大型スーパー。お土産用のお菓子や調味料、インスタントフォーなどを安く購入するのに便利です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "banh-mi-huynh-hoa",
+   "name": "バインミー フインホア",
+   "local": "Bánh Mì Huỳnh Hoa",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.771545,
+   "lng": 106.691767,
+   "approx": false,
+   "desc": "ホーチミンで圧倒的な人気を誇るバインミーの超有名店。何種類ものハムやパテがぎっしり詰まった、ボリューム満点で激ウマなバインミーが複数の動画で絶賛されています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "highlands-coffee-2",
+   "name": "ハイランズ コーヒー",
+   "local": "Highlands Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7718,
+   "lng": 106.6938,
+   "approx": true,
+   "desc": "ベトナム最大手のコーヒーチェーン店。ミルクフォームが乗った甘いコーヒー「Phindi Kem Sua」をテイクアウトしました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "spa-bar",
+   "name": "スパ バー",
+   "local": "Spa Bar",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.8038,
+   "lng": 106.7315,
+   "approx": true,
+   "desc": "緑に囲まれたオアシスのような空間で極上の癒やしを体験できるスパ。足湯、全身マッサージ、サウナ、フェイシャル、ヘッドスパの贅沢な240分コースを満喫しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "nay-mai",
+   "name": "ネイ マイ",
+   "local": "nay mai",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.8015,
+   "lng": 106.7168,
+   "approx": false,
+   "desc": "日本の雑誌にも掲載された、レトロで可愛い雑貨やアパレルを扱う非常にセンスの良いセレクトショップ。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    },
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "dau-hang-store",
+   "name": "ダウ ハン ストア",
+   "local": "Đầu Hàng Store",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7758,
+   "lng": 106.7028,
+   "approx": false,
+   "desc": "レトロで個性的な古着やセレクトアイテムが揃うヴィンテージショップ。1階から4階まで見応えのあるおしゃれな空間です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "pizza-4p-s-hai-ba-trung",
+   "name": "ピザフォーピーズ ハイバーチュン店",
+   "local": "Pizza 4P's Hai Ba Trung",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7828,
+   "lng": 106.6958,
+   "approx": false,
+   "desc": "ベトナムで大人気の日本人経営のピザレストラン。ブッラータチーズとフルーツのサラダや、ハーフ＆ハーフの絶品ピザ、カニクリームパスタを堪能しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "pho-2000",
+   "name": "フォー 2000",
+   "local": "Phở 2000",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7725,
+   "lng": 106.6978,
+   "approx": false,
+   "desc": "かつてクリントン元米大統領も訪れたことで有名なフォーの人気店。清潔感のある店内で、あっさりスープのフォーと濃厚なマンゴースムージーをいただきました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "shin-heritage",
+   "name": "シン ヘリテージ",
+   "local": "SHIN Heritage",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7755,
+   "lng": 106.7025,
+   "approx": false,
+   "desc": "こだわりのスペシャルティコーヒーを提供するスタイリッシュなカフェ。お土産用に高級感のあるコーヒー豆を購入しました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "brew-bliss-coffee",
+   "name": "ブリュー ブリス コーヒー",
+   "local": "Brew Bliss Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7755,
+   "lng": 106.7026,
+   "approx": false,
+   "desc": "旅の最後に訪れた、モダンで落ち着いた雰囲気のカフェ。甘さ控えめで美味しい塩キャラメルラテを飲みながら、旅の思い出を振り返りました。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "a9mkrd9h2hA"
+    }
+   ]
+  },
+  {
+   "slug": "sky-gem-hotel-sora",
+   "name": "スカイジェム ホテル ソラ",
+   "local": "Sky Gem Hotel Sora",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7788,
+   "lng": 106.7044,
+   "approx": false,
+   "desc": "シンプルで可愛らしい内装のリーズナブルなホテル。1泊約8,000円と非常に手頃に宿泊できました。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "my-banh-mi",
+   "name": "マイ バインミー",
+   "local": "My Banh Mi",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7794,
+   "lng": 106.6991,
+   "approx": false,
+   "desc": "サイゴン中央郵便局の近くにある人気のバインミー専門店。パリパリのパンに具材がぎっしり詰まっており、パクチーが苦手な方でも美味しく完食できます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "the-balcony-clothing-cafe",
+   "name": "ザ・バルコニー",
+   "local": "The Balcony Clothing & Cafe",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7731,
+   "lng": 106.7011,
+   "approx": false,
+   "desc": "古いアパートの5階にある、古着屋とカフェが併設された隠れ家スポット。バルコニー席からはホーチミンの夜景を見渡すことができ、濃いベトナムコーヒーを楽しめます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "min-juice-smoothie-coffee",
+   "name": "ミン ジュース＆スムージー コーヒー",
+   "local": "Min Juice & Smoothie Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7722,
+   "lng": 106.7011,
+   "approx": true,
+   "desc": "小さな夜市エリアにあるジューススタンド。約170円という安さで大容量のマンゴースムージーを購入できます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "amai-grade-b",
+   "name": "アマイ グレード ビー",
+   "local": "amai grade b",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.772,
+   "lng": 106.701,
+   "approx": false,
+   "desc": "カラフルで歪んだ形が可愛いベトナムの人気食器ブランド「amai」のアウトレット（Grade b）商品を扱うショップ。1000円以下で可愛い食器が手に入ります。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "duy-tan-saigon-artisan",
+   "name": "ズイタン",
+   "local": "Duy Tan - Saigon Artisan",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7722,
+   "lng": 106.7012,
+   "approx": false,
+   "desc": "ベトナムらしいお土産が安く手に入る人気の雑貨店。お箸やポーチなどのお土産をたくさん購入するのに最適です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "spa-kaka",
+   "name": "スパ カカ",
+   "local": "SPA KAKA",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7785,
+   "lng": 106.7042,
+   "approx": false,
+   "desc": "アロマオイルマッサージが1時間2200円と非常にリーズナブルで、旅の疲れを癒すのにぴったりのマッサージ店です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "bun-cha-ha-noi-26",
+   "name": "ブンチャー・ハノイ 26",
+   "local": "Bun Cha Ha Noi 26",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7795,
+   "lng": 106.7045,
+   "approx": false,
+   "desc": "ブンチャー（ハノイ風つけ麺）の専門店。甘酸っぱいつけ汁と炭火焼き肉、米粉麺の相性が抜群で大絶賛されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "jo-cooking-class-homestore",
+   "name": "ジョー クッキングクラス＆ホームストア",
+   "local": "JO Cooking Class & Homestore",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7791,
+   "lng": 106.7042,
+   "approx": false,
+   "desc": "ホテル近くにある可愛い雑貨屋さん。ウサギや野菜のユニークな置物など、一目惚れするようなアイテムが並びます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "tam-coffee",
+   "name": "タム コーヒー",
+   "local": "TAM COFFEE",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.779,
+   "lng": 106.7041,
+   "approx": false,
+   "desc": "プリンのようにとろとろで甘じょっぱい、絶品のエッグコーヒーが飲めるカフェです。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "norah-spa",
+   "name": "ノラ スパ",
+   "local": "Norah SPA",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7791,
+   "lng": 106.7043,
+   "approx": false,
+   "desc": "頭を丁寧にマッサージしてもらえる、非常に気持ちの良いヘッドスパを体験できるスパです。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "ice-cream-8",
+   "name": "アイスクリーム エイト",
+   "local": "Ice Cream 8",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.8031,
+   "lng": 106.7328,
+   "approx": false,
+   "desc": "2区にあるカラフルなアイスクリーム屋さん。「スノーソルト」味のアイスが感動的な美味しさです。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "le-flaneur-cafe",
+   "name": "ル・フラヌール カフェ",
+   "local": "Le Flâneur Café",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.803,
+   "lng": 106.7329,
+   "approx": false,
+   "desc": "アイスクリーム屋さんの隣にあるおしゃれなカフェ。甘さと濃さのバランスがベストなミルクコーヒー（ベトナム風カフェオレ）が絶賛されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "banh-xeo-46a",
+   "name": "バインセオ 46A",
+   "local": "Bánh Xèo 46A",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7902,
+   "lng": 106.6907,
+   "approx": false,
+   "desc": "タンディン教会の近くにある、非常に有名なバインセオの老舗専門店。パリパリの大きな生地に海鮮やもやしがたっぷり入ったバインセオが複数の動画で絶賛されています。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "tan-dinh-market",
+   "name": "タンディン市場",
+   "local": "Tan Dinh Market",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.79,
+   "lng": 106.6895,
+   "approx": false,
+   "desc": "タンディン教会の近くにある大きな市場。特に布地（テキスタイル）の取り扱いが非常に多く、ハンドメイド好きに人気です。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "cong-ca-phe-2",
+   "name": "コンカフェ (タンディン店)",
+   "local": "Cộng Cà Phê",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.789912,
+   "lng": 106.690356,
+   "approx": false,
+   "desc": "タンディン教会の目の前にある、レトロな雰囲気の人気カフェチェーン。バルコニー席からピンクの教会を眺めながら、名物のココナッツコーヒーなどが味わえます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    },
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    },
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "day-spa",
+   "name": "デイ スパ",
+   "local": "Day Spa",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7901,
+   "lng": 106.692,
+   "approx": false,
+   "desc": "歩き疲れた足を癒すのに最適なスパ。1時間1500円程度でリーズナブルなフットマッサージを受けられます。",
+   "ponpoko": true,
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "OYDyLvNdOog"
+    }
+   ]
+  },
+  {
+   "slug": "lac-cafe",
+   "name": "ラック カフェ",
+   "local": "Lạc Café",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7797,
+   "lng": 106.6912,
+   "approx": false,
+   "desc": "路地の奥にあるレトロで秘密基地のような雰囲気のカフェ。練乳付きのパンとカフェラテを注文してのんびり過ごせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "m-village",
+   "name": "エム ヴィレッジ",
+   "local": "M Village",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7796,
+   "lng": 106.6911,
+   "approx": false,
+   "desc": "ブーゲンビリアが咲き誇るエントランスが特徴的なアパートメントホテル。キッチンやランドリーもあり長期滞在にも向いています。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "cham-phay-coffee",
+   "name": "チャム ファイ コーヒー",
+   "local": "chấm phẩy Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7835,
+   "lng": 106.6975,
+   "approx": false,
+   "desc": "バイクの荷台を改造して営業しているおしゃれなコーヒースタンド。ベトナム風のブラックコーヒーをテイクアウトできます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "cafe-slow",
+   "name": "カフェ スロウ",
+   "local": "Cafe Slow",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7885,
+   "lng": 106.7012,
+   "approx": false,
+   "desc": "緑豊かなエントランスと落ち着いた中庭があるカフェ。看板犬のフレンチブルドッグに癒されながらレモンアイスティーを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "quan-94",
+   "name": "クアン 94",
+   "local": "Quán 94",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7895,
+   "lng": 106.6978,
+   "approx": false,
+   "desc": "カニ料理で有名な老舗食堂。カニの身がゴロゴロ入った贅沢なチャーハンと空心菜炒めが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "naga-shoes",
+   "name": "ナガ シューズ",
+   "local": "NAGA Shoes",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7898,
+   "lng": 106.6775,
+   "approx": false,
+   "desc": "トレンド感のあるレディースシューズやサンダルをリーズナブルな価格で販売している人気のショップです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "an-hy-studio",
+   "name": "アン ハイ スタジオ",
+   "local": "An Hy Studio",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7899,
+   "lng": 106.6772,
+   "approx": false,
+   "desc": "リボン付きの可愛いサンダルやミュールなどを取り扱うシューズショップ。試着をしてお気に入りの一足を見つけられます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "T0k8ecbJpsk"
+    }
+   ]
+  },
+  {
+   "slug": "vinpearl-landmark-81-autograph-collectio",
+   "name": "ヴィンパール ランドマーク 81 オートグラフ コレクション",
+   "local": "Vinpearl Landmark 81, Autograph Collection",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.7916,
+   "lng": 106.7218,
+   "approx": false,
+   "desc": "ホーチミンの超高層ビル「ランドマーク81」内にある高級ホテル。55階の客室からの素晴らしい景色を楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "di-mai-landmark-81",
+   "name": "ディマイ ベトナミーズ キッチン ＆ バー ランドマーク81店",
+   "local": "Di Mai - Landmark 81",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7916,
+   "lng": 106.7218,
+   "approx": false,
+   "desc": "ランドマーク81のショッピングモール内にあるベトナム料理レストラン。生春巻きなどの定番料理をランチで味わえます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "outfix",
+   "name": "アウトフィックス",
+   "local": "OUTFIX",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.7738,
+   "lng": 106.7025,
+   "approx": false,
+   "desc": "トレンド感のある洋服が揃う人気のセレクトショップ。夜のディナーで着るための可愛い服を購入するのにぴったりです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "duong-nguyen-hue",
+   "name": "グエンフエ通り",
+   "local": "Đường Nguyễn Huệ",
+   "area": "hcmc",
+   "cat": "観光",
+   "lat": 10.7741,
+   "lng": 106.7018,
+   "approx": false,
+   "desc": "夜になると多くの人々で賑わう歩行者天国。ライトアップされた広場で散歩やダンスを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "the-view-rooftop-bar",
+   "name": "ザ・ビュー ルーフトップバー",
+   "local": "The View Rooftop Bar",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7678,
+   "lng": 106.6903,
+   "approx": false,
+   "desc": "ブイビエン通り近くのホテル屋上にあるバー。ランタンが飾られたエキゾチックな空間で夜景とドリンクを楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "king-koi-coffee-garden",
+   "name": "キング鯉コーヒーガーデン",
+   "local": "King Koi Coffee Garden",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.8012,
+   "lng": 106.6178,
+   "approx": false,
+   "desc": "無数の鯉が泳ぐ池の中に客席が設けられたユニークなカフェ。タピオカミルクティーを飲みながら鯉と触れ合えます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "miu-miu-spa",
+   "name": "ミュウミュウスパ",
+   "local": "Miu Miu Spa",
+   "area": "hcmc",
+   "cat": "体験",
+   "lat": 10.7801,
+   "lng": 106.7052,
+   "approx": false,
+   "desc": "日本人旅行者にも人気の高いマッサージ店。全身マッサージを受けて旅の疲れを癒やせます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "pho-viet-nam-ben-thanh",
+   "name": "フォーベトナム ベンタイン店",
+   "local": "Phở Việt Nam Bến Thành",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7722,
+   "lng": 106.6955,
+   "approx": false,
+   "desc": "ミシュランにも掲載された有名なフォー専門店。熱々の石鍋で提供される絶品の牛肉フォーを堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "pizza-4p-s-ben-thanh",
+   "name": "ピザフォーピーズ ベンタイン店",
+   "local": "Pizza 4P's Ben Thanh",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.7732,
+   "lng": 106.6985,
+   "approx": false,
+   "desc": "ベトナムで大人気のピザレストラン。ブッラータチーズがのったピザやカニのパスタを美味しくいただけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "ueTWI3_ROSY"
+    }
+   ]
+  },
+  {
+   "slug": "sherwood-residence",
+   "name": "シャーウッド レジデンス",
+   "local": "Sherwood Residence",
+   "area": "hcmc",
+   "cat": "宿",
+   "lat": 10.781811,
+   "lng": 106.694811,
+   "approx": false,
+   "desc": "広々としたリビングやキッチン、洗濯機などを完備したコンドミニアムスタイルのホテル。ファミリーや長期滞在にもおすすめです。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "cat-tuong",
+   "name": "カットゥオン",
+   "local": "Cát Tường",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.773413,
+   "lng": 106.696612,
+   "approx": false,
+   "desc": "ベンタイン市場近くにあるローカルなブンチャー専門店。ジューシーな肉団子（チャー）と酸味のあるさっぱりしたスープが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "be-che",
+   "name": "ベチェ",
+   "local": "Bé Chè",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.7725,
+   "lng": 106.698,
+   "approx": false,
+   "desc": "ベンタイン市場内にある創業50年の老舗チェー専門店。ココナッツミルクベースの「Che Ba Mau（3色チェー）」を堪能できます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "little-hanoi-egg-coffee",
+   "name": "リトルハノイ エッグコーヒー",
+   "local": "Little Hanoi Egg Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.768783,
+   "lng": 106.695328,
+   "approx": false,
+   "desc": "路地裏にある落ち着いた雰囲気のカフェ。もっちりとしたエッグクリームが乗ったエッグコーヒーや、マンゴートーストが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "pho-viet-nam",
+   "name": "フォー ベトナム (タンディン店)",
+   "local": "Phở Việt Nam",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.787463,
+   "lng": 106.686522,
+   "approx": false,
+   "desc": "タンディン教会の近くにある、ミシュランも獲得した人気のフォー専門店。熱々の石鍋で提供される「PHO THO DA（石焼きフォー）」が名物です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "banh-su-que",
+   "name": "バイン スー クエ",
+   "local": "Bánh SU QUE",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.790483,
+   "lng": 106.691711,
+   "approx": false,
+   "desc": "タンディン市場の近くにある、エクレアのような細長いシュークリームの専門店。プレーンやチーズ味などがあり、甘すぎず軽い食感が人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "five-boys-number-one-smoothies",
+   "name": "ファイブ ボーイズ ナンバーワン スムージーズ",
+   "local": "Five Boys Number One Smoothies",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.767425,
+   "lng": 106.693639,
+   "approx": false,
+   "desc": "バックパッカー街の路地裏にある大人気のスムージー専門店。新鮮なフルーツをその場でスムージーにしてくれ、マンゴー＆パッションフルーツなどが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "bep-cuon-sai-gon",
+   "name": "ベップ クオン サイゴン",
+   "local": "Bếp Cuốn Sài Gòn",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.774577,
+   "lng": 106.681711,
+   "approx": false,
+   "desc": "ダナン発祥のベトナム料理レストラン。パリパリのバインセオをライスペーパーや野菜で巻いて食べるセットをいただけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "two-eleven-coffee-more",
+   "name": "ツー イレブン コーヒー＆モア",
+   "local": "Two Eleven Coffee & More",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.776655,
+   "lng": 106.703811,
+   "approx": false,
+   "desc": "おしゃれなインテリアが魅力のカフェ。サクサクで軽い食感のバインミーと、甘さを調整できるココナッツコーヒーが絶品です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "maison-marou-saigon",
+   "name": "メゾン マルゥ サイゴン",
+   "local": "Maison Marou Saigon",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.769911,
+   "lng": 106.699111,
+   "approx": false,
+   "desc": "ベトナムを代表する高級チョコレート専門店。店内ではお土産用のチョコが買えるほか、濃厚なチョコレートジェラートなどのスイーツも楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "chuoi-boc-nep-nuong",
+   "name": "チュオイ ボック ネップ ヌオン",
+   "local": "Chuối Bọc Nếp Nướng",
+   "area": "hcmc",
+   "cat": "グルメ",
+   "lat": 10.773822,
+   "lng": 106.682111,
+   "approx": false,
+   "desc": "ローカルに大人気の焼きバナナのちまき（ココナッツミルクがけ）を販売する屋台。もちもちの生地とバナナの甘みが絶妙です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "anh-coffee-roastery",
+   "name": "アン コーヒー ロースタリー",
+   "local": "Anh Coffee Roastery",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.783411,
+   "lng": 106.694111,
+   "approx": false,
+   "desc": "レンガ調のモダンな外観が特徴的な大型カフェ。広々とした店内は緑が多く、オレンジコールドブリューなどのこだわりコーヒーが楽しめます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "hansry",
+   "name": "ハンスリー",
+   "local": "hansry",
+   "area": "hcmc",
+   "cat": "雑貨・土産",
+   "lat": 10.804111,
+   "lng": 106.731111,
+   "approx": false,
+   "desc": "日本人オーナーがデザインする、ベトナムの素材を使ったハンドメイドのカゴバッグ専門店。コンパクトに折りたためるバッグが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "l-usine-thao-dien",
+   "name": "ルージン タオディエン店",
+   "local": "L'Usine Thao Dien",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.802811,
+   "lng": 106.733111,
+   "approx": false,
+   "desc": "倉庫を改装したような開放的な空間が広がる、タオディエンで大人気のカフェ。アボカドトーストやトロピカルコールドブリューをいただけます。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  },
+  {
+   "slug": "hoff-specialty-coffee",
+   "name": "ホフ スペシャリティ コーヒー",
+   "local": "HOFF Specialty Coffee",
+   "area": "hcmc",
+   "cat": "カフェ・喫茶",
+   "lat": 10.787511,
+   "lng": 106.691211,
+   "approx": false,
+   "desc": "フォー・ホア・パスツールから歩いてすぐの場所にある、落ち着いた雰囲気のモダンなカフェ。酸味のあるすっきりとしたアメリカーノが人気です。",
+   "sources": [
+    {
+     "type": "youtube",
+     "id": "YV-l_qLajjY"
+    }
+   ]
+  }
+ ]
+}
