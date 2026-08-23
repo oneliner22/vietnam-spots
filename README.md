@@ -50,3 +50,12 @@ python -m http.server
 スポット情報は各YouTube動画に基づく（著作権は各投稿者に帰属）。
 地図: © OpenStreetMap contributors / Leaflet。
 本サイトは非公式のファンメイドまとめです。
+
+## tools/（データ生成に使った一回きりのスクリプト）
+
+- `tools/yt_search.py` — YouTube検索「ベトナム vlog」上位20件の取得（InnerTube API）
+- `tools/analyze.py` — 各動画を Gemini (Vertex AI) で解析しスポット抽出（要 ADC / GCP_PROJECT）
+- `tools/merge.py` — 都市ごとに Gemini で名寄せ・統合
+- `tools/build_data.py` — `data/spots.json` / `videos.json` / `config.json` を生成
+
+日次の自動収集パイプラインはこのサイトにはない（意図的に持たない）。
