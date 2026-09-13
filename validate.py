@@ -21,7 +21,7 @@ spots_doc = load("data/spots.json")
 videos    = load("data/videos.json")
 config    = load("data/config.json")
 
-if spots_doc and videos:
+if spots_doc and videos is not None:
     areas = spots_doc.get("areas", [])
     spots = spots_doc.get("spots", [])
     area_ids = [a["id"] for a in areas]
@@ -29,6 +29,9 @@ if spots_doc and videos:
         err("area id が重複")
 
     slugs = set()
+    x_url_re = re.compile(r"^https://(x|twitter)\.com/.+/status(es)?/\d+")
+    mark_vids = {vid for vid, v in videos.items() if v.get("mark")}
+
     for s in spots:
         tag = f"spot '{s.get('slug', '?')}'"
         for key in ("slug", "name", "area", "cat", "lat", "lng", "approx", "desc", "sources"):
@@ -47,7 +50,6 @@ if spots_doc and videos:
         if not isinstance(s.get("sources"), list) or not s["sources"]:
             err(f"{tag}: sources が空")
             continue
-        x_url_re = re.compile(r"^https://(x|twitter)\.com/.+/status(es)?/\d+")
         for src in s["sources"]:
             t = src.get("type")
             if t == "youtube":
@@ -61,17 +63,21 @@ if spots_doc and videos:
                     continue
                 if not x_url_re.match(src.get("url", "")):
                     err(f"{tag}: 不正なX URL '{src.get('url')}'")
+                # /i/web/status/<id> は X のリダイレクト頼みで、年齢制限付きアカウントの
+                # ポストだと未ログイン閲覧者に404が出る。著者不明のフォールバック時のみ許容
+                elif "/i/web/status/" in src["url"]:
+                    print(f"note: {tag}: X URL が /i/web/ 形式 (著者ハンドル不明) '{src['url']}'")
                 if not src.get("date"):
                     err(f"{tag}: x source に date がない")
             else:
                 err(f"{tag}: 未知の source type '{t}'")
-        # 🍃 印: ponpoko=true のスポットは、ぽんぽこ動画が出典に含まれていること
-        pp_vids = {vid for vid, v in videos.items() if v.get("ponpoko")}
-        yt_ids = {src.get("id") for src in s["sources"] if src.get("type") == "youtube"}
-        if s.get("ponpoko") and not (yt_ids & pp_vids):
-            err(f"{tag}: ponpoko=true だが出典にぽんぽこ動画がない")
-        if not s.get("ponpoko") and (yt_ids & pp_vids):
-            err(f"{tag}: 出典にぽんぽこ動画があるのに ponpoko=true でない")
+        # mark 印: mark=true のスポットは mark 付き動画が出典に含まれていること（逆も）
+        if mark_vids:
+            yt_ids = {src.get("id") for src in s["sources"] if src.get("type") == "youtube"}
+            if s.get("mark") and not (yt_ids & mark_vids):
+                err(f"{tag}: mark=true だが出典に mark 付き動画がない")
+            if not s.get("mark") and (yt_ids & mark_vids):
+                err(f"{tag}: 出典に mark 付き動画があるのに mark=true でない")
 
 if ERRORS:
     print("NG:", len(ERRORS), "件")
@@ -81,6 +87,6 @@ if ERRORS:
 
 n_spots = len(spots_doc["spots"]) if spots_doc else 0
 n_src = sum(len(s["sources"]) for s in spots_doc["spots"]) if spots_doc else 0
-n_pp = sum(1 for s in spots_doc["spots"] if s.get("ponpoko")) if spots_doc else 0
+n_mark = sum(1 for s in spots_doc["spots"] if s.get("mark")) if spots_doc else 0
 print(f"OK: spots={n_spots} sources={n_src} areas={len(spots_doc['areas'])} "
-      f"videos={len(videos)} ponpoko_spots={n_pp}")
+      f"videos={len(videos)} mark_spots={n_mark}")

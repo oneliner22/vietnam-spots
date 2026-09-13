@@ -70,15 +70,15 @@ for city, area in CITY2AREA.items():
             "lat": round(lat, 6), "lng": round(lng, 6),
             "approx": bool(m["approx"]),
             "desc": m["desc"],
-            "ponpoko": any(v in PONPOKO for v in vids),
+            "mark": any(v in PONPOKO for v in vids),
             "sources": [{"type": "youtube", "id": v} for v in vids],
         })
     print(f"{city}: {len(merged['spots'])} spots")
 
-# ponpoko キーは true のものだけ残す（ishikawa スキーマに寄せる）
+# mark キーは true のものだけ残す（ishikawa スキーマに寄せる）
 for s in spots:
-    if not s["ponpoko"]:
-        del s["ponpoko"]
+    if not s["mark"]:
+        del s["mark"]
 
 # videos.json
 search = json.load(io.open(os.path.join(BASE, "search_results.json"), encoding="utf-8"))
@@ -89,7 +89,7 @@ for v in search:
 for vid, v in pmeta.items():
     videos[vid] = {"title": v["title"], "channel": v["channel"]}
 for vid in PONPOKO:
-    videos[vid]["ponpoko"] = True
+    videos[vid]["mark"] = True
 
 used_vids = {src["id"] for s in spots for src in s["sources"]}
 print("videos referenced:", len(used_vids), "/", len(videos))

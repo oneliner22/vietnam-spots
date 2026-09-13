@@ -2737,7 +2737,7 @@
    "lng": 108.246935,
    "approx": false,
    "desc": "ダナンを代表する美しいビーチ。複数の動画で紹介されており、砂浜でのダンスや朝の散策、日の出の絶景、海風を楽しむ様子が描かれています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -2807,7 +2807,7 @@
    "lng": 108.244378,
    "approx": false,
    "desc": "ミーケービーチ徒歩圏の緑豊かでボタニカルなおしゃれホテル。1泊約5000円で、可愛いタイル張りのバスルームやベランダ付き。ぽんぽこのダナン旅の拠点として2本の動画に登場。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -2874,7 +2874,7 @@
    "lng": 108.244333,
    "approx": false,
    "desc": "スタイリッシュな内装の部屋や、ダナンの街と海を一望できる屋上プールが備わっている1泊約6000円のホテルです。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -2917,7 +2917,7 @@
    "lng": 108.2238,
    "approx": false,
    "desc": "ダナンの交差点角にある老舗フォー食堂。動画の字幕では向かいの「Phở Cù Hà Nội」と紹介されていたが、ファンの現地検証により実際に2人が入ったのはこちらの店と判明。牛肉フォーのほか、海鮮チャーハンや揚げ春巻きも美味しいとファンの追加報告あり。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -2980,7 +2980,7 @@
    "lng": 108.227693,
    "approx": false,
    "desc": "ダナンのハン川に架かる、巨大な龍を模した有名な橋。複数の動画で紹介されており、夜間のライトアップや、週末の夜に開催される大迫力の火と水を噴くショーが人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -3235,7 +3235,7 @@
    "lng": 108.223182,
    "approx": false,
    "desc": "日本人オーナーが営む、可愛いベトナム雑貨が揃う人気のお土産ショップ。複数の動画で紹介されており、刺繍入りの巾着やプラカゴ、かごバッグなどが人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -3320,7 +3320,7 @@
    "lng": 108.224069,
    "approx": false,
    "desc": "ダナン中心部にある活気あふれる大規模な屋内市場。複数の動画で紹介されており、ドライフルーツや衣類、タイパンツ、雑貨、アオザイの仕立てなど、お土産探しやローカルな雰囲気を楽しむスポットとして人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -3541,7 +3541,7 @@
    "lng": 108.223187,
    "approx": false,
    "desc": "パステルピンクの可愛らしい外観が特徴の、フランス植民地時代に建てられた歴史あるカトリック教会。複数の動画でその美しい外観が紹介されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4052,7 +4052,7 @@
    "lng": 108.222239,
    "approx": false,
    "desc": "レトロでヴィンテージ感あふれるアンティーク雑貨に囲まれた隠れ家カフェ。複数の動画で紹介されており、ココナッツコーヒーやエッグコーヒーを味わいながらゆったり過ごせる空間が人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4128,7 +4128,7 @@
    "lng": 108.23168,
    "approx": false,
    "desc": "ドラゴンブリッジの近くで開催されるダナン最大級のナイトマーケット。複数の動画で紹介されており、活気ある夜の雰囲気の中で屋台グルメやロールアイス、ベトナム風たこ焼きなどが楽しめます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4232,7 +4232,7 @@
    "lng": 108.226631,
    "approx": false,
    "desc": "アジア各国の要素が盛り込まれた遊園地。かつて滋賀県のびわ湖タワーにあった巨大観覧車が移設され、現在も稼働しています。 ※ファンの現地報告によると2025年9月頃にアジアパーク自体は閉園（観覧車は2026年4月時点で現存し、場外から見られる）。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4344,7 +4344,7 @@
    "lng": 108.224557,
    "approx": false,
    "desc": "アジアパークのすぐ隣にある、おしゃれな雰囲気の夜市。フリーライブが開催される賑やかな空間で、冷たいマンゴースムージーを味わえます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4381,7 +4381,7 @@
    "lng": 108.220901,
    "approx": false,
    "desc": "朝食に訪れたローカル食堂。鶏だしで炊いたもち米に鶏肉やフライドオニオンが乗ったソイガーを堪能できます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4424,7 +4424,7 @@
    "lng": 108.223144,
    "approx": false,
    "desc": "日本語が通じるアットホームなお土産店。バッチャン焼きの陶器や刺繍小物を購入し、サービスでドライマンゴーとコーヒーを頂けます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4454,7 +4454,7 @@
    "lng": 108.24601,
    "approx": false,
    "desc": "ミーケービーチ沿いにあるリゾート感あふれるレストラン。海を眺めながらボリューム満点のイングリッシュ・ブレックファストを楽しめます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4491,7 +4491,7 @@
    "lng": 108.235229,
    "approx": false,
    "desc": "街歩きの途中に立ち寄ったお洒落なカフェ。濃厚なマンゴースムージーを飲んで涼めます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4520,7 +4520,7 @@
    "lng": 108.22273,
    "approx": false,
    "desc": "口コミで評判のマッサージ店。足湯から始まる本格的な施術で、歩き疲れた体をリフレッシュできます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4564,7 +4564,7 @@
    "lng": 108.229967,
    "approx": false,
    "desc": "様々なショップや飲食店、ゲームセンター、映画館などが入る近代的なショッピングモール。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4594,7 +4594,7 @@
    "lng": 108.230678,
    "approx": false,
    "desc": "ビンコムプラザ内にあるベトナム大手のコーヒーチェーン。非常に濃厚で苦味の強いブラックコーヒーを味わえます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4624,7 +4624,7 @@
    "lng": 108.219854,
    "approx": false,
    "desc": "ダナン名物のチキンライスコムガーの人気店。パリパリに揚げられた大きなチキンが乗ったご飯をリーズナブルに楽しめます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4667,7 +4667,7 @@
    "lng": 108.245066,
    "approx": false,
    "desc": "ホテル近くにあるカジュアルなカジノ。フリードリンクやフリーフードを楽しみながらゲームに挑戦できます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -4757,7 +4757,7 @@
      "quote": "ぽんぽこさんが行った時は改修中だった日本橋は工事終わってた！こんな色鮮やかだったんだ！ランタンにはカタカナで「ホイアン」て書いてあった笑"
     }
    ],
-   "ponpoko": true,
+   "mark": true,
    "place_id": "ChIJWewCLXwOQjERRkh9adZkWHY",
    "address": "Nguyễn Thị Minh Khai, Hội An, Đà Nẵng 564010 ベトナム",
    "hours": [
@@ -4924,7 +4924,7 @@
    "lng": 108.332049,
    "approx": false,
    "desc": "世界一美味しいとも称される、ホイアンを代表する超有名バインミー専門店。サクサクのパンに具材がたっぷり入った絶品バインミーが複数の動画で大絶賛されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -5459,7 +5459,7 @@
    "lng": 108.330628,
    "approx": false,
    "desc": "中国の福建省出身の人々によって建てられた華やかな会館。精巧な彫刻や美しいタイルが印象的です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -5495,7 +5495,7 @@
    "lng": 108.325801,
    "approx": false,
    "desc": "日本、中国、ベトナムの建築様式が融合した、歴史ある木造の古民家です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -5538,7 +5538,7 @@
    "lng": 108.329965,
    "approx": false,
    "desc": "ホイアン旧市街にある人気のベトナム料理店。名物のカオラウやホワイトローズを堪能できます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -5654,7 +5654,7 @@
    "lng": 106.690679,
    "approx": false,
    "desc": "鮮やかなピンク色の外観が可愛らしく、観光客に大人気のカトリック教会。多くの動画で記念撮影スポットとして紹介されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -5764,7 +5764,7 @@
    "lng": 106.699902,
    "approx": false,
    "desc": "フランス植民地時代の美しい建築が残る歴史的な郵便局。複数の動画で定番の観光名所として紹介されており、レトロな内装の見学やお土産探しが楽しめます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -6331,7 +6331,7 @@
    "lng": 106.743165,
    "approx": false,
    "desc": "タオディエン地区にある、モダンで可愛らしいデザインのベトナム伝統陶器を扱うショップ。温かみのある手描きのソンベ焼きや、ドット柄のマグカップなどが人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -6531,7 +6531,7 @@
    "lng": 106.700073,
    "approx": false,
    "desc": "サイゴン中央郵便局のすぐ隣にある、本屋やカフェが立ち並ぶ緑豊かな遊歩道。複数の動画で紹介されており、ポストカードや可愛い雑貨の購入、散策にぴったりです。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7074,7 +7074,7 @@
    "lng": 106.704769,
    "approx": false,
    "desc": "伝統的なベトナムの工芸品やカゴバッグ、陶器などを扱うお土産ショップ。センスの良いセレクトが魅力で、可愛いベトナム雑貨が並びます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7108,7 +7108,7 @@
    "lng": 106.702781,
    "approx": false,
    "desc": "ドンコイ通り近くにある、アパレルやユニークな雑貨、ZINEなどを取り扱うエッジの効いたおしゃれなセレクトショップ。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7434,7 +7434,7 @@
    "lng": 106.704587,
    "approx": false,
    "desc": "シンプルで可愛らしい内装のリーズナブルなホテル。1泊約8,000円と非常に手頃に宿泊できました。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7455,7 +7455,7 @@
    "lng": 106.700324,
    "approx": false,
    "desc": "サイゴン中央郵便局の近くにある人気のバインミー専門店。パリパリのパンに具材がぎっしり詰まっており、パクチーが苦手な方でも美味しく完食できます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7485,7 +7485,7 @@
    "lng": 106.7011,
    "approx": false,
    "desc": "古いアパートの5階にある、古着屋とカフェが併設された隠れ家スポット。バルコニー席からはホーチミンの夜景を見渡すことができ、濃いベトナムコーヒーを楽しめます。 店内のメモウォールには2025年11月25日付のぽんぽこ直筆メモが残されている（ファンの発見報告あり）。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7543,7 +7543,7 @@
    "lng": 106.692936,
    "approx": false,
    "desc": "小さな夜市エリアにあるジューススタンド。約170円という安さで大容量のマンゴースムージーを購入できます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7572,7 +7572,7 @@
    "lng": 106.70415,
    "approx": false,
    "desc": "カラフルで歪んだ形が可愛いベトナムの人気食器ブランド「amai」のアウトレット（Grade b）商品を扱うショップ。1000円以下で可愛い食器が手に入ります。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7602,7 +7602,7 @@
    "lng": 106.699562,
    "approx": false,
    "desc": "ベトナムらしいお土産が安く手に入る人気の雑貨店。お箸やポーチなどのお土産をたくさん購入するのに最適です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7632,7 +7632,7 @@
    "lng": 106.699038,
    "approx": false,
    "desc": "アロマオイルマッサージが1時間2200円と非常にリーズナブルで、旅の疲れを癒すのにぴったりのマッサージ店です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7662,7 +7662,7 @@
    "lng": 106.705109,
    "approx": false,
    "desc": "ブンチャー（ハノイ風つけ麺）の専門店。甘酸っぱいつけ汁と炭火焼き肉、米粉麺の相性が抜群で大絶賛されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7699,7 +7699,7 @@
    "lng": 106.703969,
    "approx": false,
    "desc": "ホテル近くにある可愛い雑貨屋さん。ウサギや野菜のユニークな置物など、一目惚れするようなアイテムが並びます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7729,7 +7729,7 @@
    "lng": 106.704698,
    "approx": false,
    "desc": "プリンのようにとろとろで甘じょっぱい、絶品のエッグコーヒーが飲めるカフェです。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7765,7 +7765,7 @@
    "lng": 106.703188,
    "approx": false,
    "desc": "頭を丁寧にマッサージしてもらえる、非常に気持ちの良いヘッドスパを体験できるスパです。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7795,7 +7795,7 @@
    "lng": 106.73168,
    "approx": false,
    "desc": "2区にあるカラフルなアイスクリーム屋さん。「スノーソルト」味のアイスが感動的な美味しさです。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7825,7 +7825,7 @@
    "lng": 106.739244,
    "approx": false,
    "desc": "アイスクリーム屋さんの隣にあるおしゃれなカフェ。甘さと濃さのバランスがベストなミルクコーヒー（ベトナム風カフェオレ）が絶賛されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7855,7 +7855,7 @@
    "lng": 106.691343,
    "approx": false,
    "desc": "タンディン教会の近くにある、非常に有名なバインセオの老舗専門店。パリパリの大きな生地に海鮮やもやしがたっぷり入ったバインセオが複数の動画で絶賛されています。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7888,7 +7888,7 @@
    "lng": 106.690024,
    "approx": false,
    "desc": "タンディン教会の近くにある大きな市場。特に布地（テキスタイル）の取り扱いが非常に多く、ハンドメイド好きに人気です。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7918,7 +7918,7 @@
    "lng": 106.7011,
    "approx": false,
    "desc": "タンディン教会の目の前にある、レトロな雰囲気の人気カフェチェーン。バルコニー席からピンクの教会を眺めながら、名物のココナッツコーヒーなどが味わえます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -7956,7 +7956,7 @@
    "lng": 106.704699,
    "approx": false,
    "desc": "歩き疲れた足を癒すのに最適なスパ。1時間1500円程度でリーズナブルなフットマッサージを受けられます。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -8841,7 +8841,7 @@
    "lng": 108.328101,
    "approx": false,
    "desc": "ホイアン旧市街・チャンフー通りの人気カフェ。屋上テラスからランタンの灯る街並みを一望できる。ぽんぽこの動画にも登場したとして、ファンの聖地巡礼報告が相次ぐ。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
@@ -8891,7 +8891,7 @@
    "lng": 108.332421,
    "approx": false,
    "desc": "ランタンが灯る世界遺産の旧市街。夜はトゥボン川の灯籠流しやナイトマーケットが幻想的で、多くのファンが聖地巡礼を兼ねて訪れている。",
-   "ponpoko": true,
+   "mark": true,
    "sources": [
     {
      "type": "youtube",
